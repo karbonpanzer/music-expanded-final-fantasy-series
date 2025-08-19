@@ -1,0 +1,114 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_FF7</defName>
+        <label>Music Expanded: Final Fantasy VII (Original)</label>
+		<iconPath>UI/Icons/FF7</iconPath>
+        <description>Contains Tracks from the Playstation classic, Final Fantasy 7. It contains all of the original tracks with additions to cover both Anomaly and a few custom cues as requested.</description>
+		<tracks>	
+
+			<!-- Ambient Tracks -->
+			<li>ME_FF7_A_Great_Success</li>
+			<li>ME_FF7_A_Secret_Sleeping_in_the_Deep_Sea</li>
+			<li>ME_FF7_Aeris_Theme</li>
+			<li>ME_FF7_Ahead_on_Our_Way</li>
+			<li>ME_FF7_Anxious_Heart</li>
+			<li>ME_FF7_Barrets_Theme</li>
+			<li>ME_FF7_Cait_Siths_Theme</li>	
+			<li>ME_FF7_Chasing_the_Black_Caped_Man</li>
+			<li>ME_FF7_Cinco_de_Chocobo</li>
+			<li>ME_FF7_Continue</li>
+			<li>ME_FF7_Cosmo_Canyon</li>
+			<li>ME_FF7_Costa_del_Sol</li>
+			<li>ME_FF7_Debut</li>
+			<li>ME_FF7_Descendent_of_Shinobi</li>
+			<li>ME_FF7_Don_of_the_Slums</li>	
+			<li>ME_FF7_Electric_de_Chocobo</li>
+			<li>ME_FF7_Fanfare</li>
+			<li>ME_FF7_Farm_Boy</li>
+			<li>ME_FF7_Fiddle_de_Chocobo</li>
+			<li>ME_FF7_Flowers_Blooming_in_the_Church</li>
+			<li>ME_FF7_Forested_Temple</li>
+			<li>ME_FF7_Gold_Saucer</li>	
+			<li>ME_FF7_Good_Night_Until_Tomorrow</li>
+			<li>ME_FF7_Great_Warrior</li>
+			<li>ME_FF7_Holding_My_Thoughts_in_My_Heart</li>
+			<li>ME_FF7_Honeybee_Manor</li>
+			<li>ME_FF7_If_You_Open_Your_Heart</li>
+			<li>ME_FF7_Interrupted_by_Fireworks</li>
+			<li>ME_FF7_Its_Difficult_to_Stand_on_Both_Feet_Isnt_It</li>	
+			<li>ME_FF7_Life_Stream</li>
+			<li>ME_FF7_Lurking_in_the_Darkness</li>
+			<li>ME_FF7_Mako_Reactor</li>
+			<li>ME_FF7_Mark_of_the_Traitor</li>
+			<li>ME_FF7_Mining_Town</li>
+			<li>ME_FF7_Off_the_Edge_of_Despair</li>			
+			<li>ME_FF7_On_That_Day_Five_Years_Ago</li>	
+			<li>ME_FF7_On_the_Other_Side_of_the_Mountain</li>
+			<li>ME_FF7_Oppressed_People</li>
+			<li>ME_FF7_Parochial_Town</li>
+			<li>ME_FF7_Racing_Chocobos</li>
+			<li>ME_FF7_Reunion</li>
+			<li>ME_FF7_Rufus_Welcoming_Ceremony</li>		
+			<li>ME_FF7_Sandy_Badlands</li>
+			<li>ME_FF7_Sending_a_Dream_into_the_Universe</li>	
+			<li>ME_FF7_Shinra_Corporation</li>
+			<li>ME_FF7_Shinra_Explodes</li>
+			<li>ME_FF7_Steal_the_Tiny_Bronco</li>
+			<li>ME_FF7_Stolen_Materia</li>
+			<li>ME_FF7_Tango_of_Tears</li>
+			<li>ME_FF7_The_Great_Northern_Cave</li>	
+			<li>ME_FF7_The_Highwind_Takes_to_the_Skies</li>
+			<li>ME_FF7_The_Nightmares_Beginning</li>
+			<li>ME_FF7_The_Special_Pose</li>
+			<li>ME_FF7_Those_Chosen_By_the_Planet</li>
+			<li>ME_FF7_Those_Chosen_By_the_Planet_Intro</li>
+			<li>ME_FF7_Tifas_Theme</li>			
+			<li>ME_FF7_Trail_of_Blood</li>
+			<li>ME_FF7_Turks_Theme</li>	
+			<li>ME_FF7_Underneath_the_Rotting_Pizza</li>
+			<li>ME_FF7_Waltz_de_Chocobo</li>
+			<li>ME_FF7_Who_Am_I</li>
+			<li>ME_FF7_Who_Are_You</li>
+			<li>ME_FF7_World_Crisis</li>
+			<li>ME_FF7_Wutai</li>
+			<li>ME_FF7_You_Can_Hear_the_Cry_of_the_Planet</li>
+			
+			<!-- Main Menu/Credits Tracks -->
+			<li>ME_FF7_Main_Theme</li>
+			<li>ME_FF7_Staff_Roll</li>			
+			
+			<!-- Battle Tracks Tracks -->
+			<li>ME_FF7_Attacking_Weapon</li>			
+			<li>ME_FF7_Bombing_Mission</li>			
+			<li>ME_FF7_Cids_Theme</li>
+			<li>ME_FF7_Crazy_Motorcycle_Chase</li>
+			<li>ME_FF7_Fighting</li>
+			<li>ME_FF7_Fortress_of_the_Condor</li>
+			<li>ME_FF7_Full_Scale_Attack</li>
+			<li>ME_FF7_Hurry</li>
+			<li>ME_FF7_Hurry_Faster</li>
+			<li>ME_FF7_Infiltrating_Shinra_Tower</li>
+			<li>ME_FF7_Jenova_Absolute</li>
+			<li>ME_FF7_Jenova</li>
+			<li>ME_FF7_Judgement_Day</li>
+			<li>ME_FF7_One_Winged_Angel</li>
+			<li>ME_FF7_Opening_Bombing_Mission</li>			
+			<li>ME_FF7_Red_XIII_Theme</li>			
+			<li>ME_FF7_Still_More_Fighting</li>			
+			<li>ME_FF7_The_Birth_of_God</li>			
+			<li>ME_FF7_The_Countdown_Begins</li>			
+			<li>ME_FF7_The_Mako_Cannon_Fires</li>
+			<li>ME_FF7_Weapon_Raid</li>
+			
+			<!-- Custom Cue Tracks -->
+			<li>ME_FF7_Buried_in_the_Snow</li>	
+			<li>ME_FF7_Buried_in_the_Hard_Snow</li>	
+			<li>ME_FF7_Aeris_Theme_Death</li>				
+		
+			<!-- Anomaly Tracks -->
+			<li>ME_FF7_Aeris_Theme_Relax</li>	
+			<li>ME_FF7_Aeris_Theme_Tension</li>	
+			<li>ME_FF7_Aeris_Theme_Combat</li>				
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

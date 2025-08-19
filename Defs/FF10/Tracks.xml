@@ -1,0 +1,463 @@
+<?xml version="1.0" ?>
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_001</defName>
+    <label>Final Fantasy X - I Want to Tell You Everything</label>
+    <clipPath>MusicExpanded/FFX/1-01 - 'I Want to Tell You Everything'</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_002</defName>
+    <label>Final Fantasy X - At Zanarkand</label>
+    <clipPath>MusicExpanded/FFX/1-02 - At Zanarkand</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_003</defName>
+    <label>Final Fantasy X - The Prelude</label>
+    <clipPath>MusicExpanded/FFX/1-03 - The Prelude</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_004</defName>
+    <label>Final Fantasy X - Tidus' Theme</label>
+    <clipPath>MusicExpanded/FFX/1-04 - Tidus' Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_005</defName>
+    <label>Final Fantasy X - Otherworld</label>
+    <clipPath>MusicExpanded/FFX/1-05 - Otherworld</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_006</defName>
+    <label>Final Fantasy X - Hurry!!</label>
+    <clipPath>MusicExpanded/FFX/1-06 - Hurry!!</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_007</defName>
+    <label>Final Fantasy X - This Is Your Story</label>
+    <clipPath>MusicExpanded/FFX/1-07 - This Is Your Story</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_008</defName>
+    <label>Final Fantasy X - Ominous</label>
+    <clipPath>MusicExpanded/FFX/1-08 - Ominous</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_009</defName>
+    <label>Final Fantasy X - Normal Battle</label>
+    <clipPath>MusicExpanded/FFX/1-09 - Normal Battle</clipPath>
+    <cue>BattleSmall</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_010</defName>
+    <label>Final Fantasy X - Victory Fanfare</label>
+    <clipPath>MusicExpanded/FFX/1-10 - Victory Fanfare</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_011</defName>
+    <label>Final Fantasy X - Game Over</label>
+    <clipPath>MusicExpanded/FFX/1-11 - Game Over</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_012</defName>
+    <label>Final Fantasy X - No Hopes, No Dreams</label>
+    <clipPath>MusicExpanded/FFX/1-12 - No Hopes, No Dreams</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_013</defName>
+    <label>Final Fantasy X - Secret Maneuverings</label>
+    <clipPath>MusicExpanded/FFX/1-13 - Secret Maneuverings</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_014</defName>
+    <label>Final Fantasy X - Deep-Sea Ruins</label>
+    <clipPath>MusicExpanded/FFX/1-14 - Deep-Sea Ruins</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_015</defName>
+    <label>Final Fantasy X - You Are Al Bhed</label>
+    <clipPath>MusicExpanded/FFX/1-15 - You Are Al Bhed</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_016</defName>
+    <label>Final Fantasy X - Enemy Attack</label>
+    <clipPath>MusicExpanded/FFX/1-16 - Enemy Attack</clipPath>
+    <cue>BattleMedium</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_017</defName>
+    <label>Final Fantasy X - Men Staked on Blitz</label>
+    <clipPath>MusicExpanded/FFX/1-17 - Men Staked on Blitz</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_018</defName>
+    <label>Final Fantasy X - Besaid Island</label>
+    <clipPath>MusicExpanded/FFX/1-18 - Besaid Island</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_019</defName>
+    <label>Final Fantasy X - Spiran Scenery</label>
+    <clipPath>MusicExpanded/FFX/1-19 - Spiran Scenery</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_020</defName>
+    <label>Final Fantasy X - Song of Prayer</label>
+    <clipPath>MusicExpanded/FFX/1-20 - Song of Prayer</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_021</defName>
+    <label>Final Fantasy X - Illusion</label>
+    <clipPath>MusicExpanded/FFX/1-21 - Illusion</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_022</defName>
+    <label>Final Fantasy X - Place of Ordeals</label>
+    <clipPath>MusicExpanded/FFX/1-22 - Place of Ordeals</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_023</defName>
+    <label>Final Fantasy X - Song of Prayer - Valefor</label>
+    <clipPath>MusicExpanded/FFX/1-23 - Song of Prayer - Valefor</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_024</defName>
+    <label>Final Fantasy X - The Summoning</label>
+    <clipPath>MusicExpanded/FFX/1-24 - The Summoning</clipPath>
+    <cue>MainMenu</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_025</defName>
+    <label>Final Fantasy X - Daughter of the Great Summoner</label>
+    <clipPath>MusicExpanded/FFX/1-25 - Daughter of the Great Summoner</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_026</defName>
+    <label>Final Fantasy X - Good Night</label>
+    <clipPath>MusicExpanded/FFX/1-26 - Good Night</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_027</defName>
+    <label>Final Fantasy X - Yuna's Theme</label>
+    <clipPath>MusicExpanded/FFX/2-01 - Yuna's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_028</defName>
+    <label>Final Fantasy X - Sprouting</label>
+    <clipPath>MusicExpanded/FFX/2-02 - Sprouting</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_029</defName>
+    <label>Final Fantasy X - Farplane Sending</label>
+    <clipPath>MusicExpanded/FFX/2-03 - Farplane Sending</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_030</defName>
+    <label>Final Fantasy X - Silence Before the Storm</label>
+    <clipPath>MusicExpanded/FFX/2-04 - Silence Before the Storm</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_031</defName>
+    <label>Final Fantasy X - Song of Prayer - Ifrit</label>
+    <clipPath>MusicExpanded/FFX/2-05 - Song of Prayer - Ifrit</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_032</defName>
+    <label>Final Fantasy X - Luca</label>
+    <clipPath>MusicExpanded/FFX/2-06 - Luca</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_033</defName>
+    <label>Final Fantasy X - Reception for Great Sage Mika</label>
+    <clipPath>MusicExpanded/FFX/2-07 - Reception for Great Sage Mika</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_034</defName>
+    <label>Final Fantasy X - Unwavering Decision</label>
+    <clipPath>MusicExpanded/FFX/2-08 - Unwavering Decision</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_035</defName>
+    <label>Final Fantasy X - The Splendid Performance</label>
+    <clipPath>MusicExpanded/FFX/2-09 - The Splendid Performance</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_036</defName>
+    <label>Final Fantasy X - Confrontation</label>
+    <clipPath>MusicExpanded/FFX/2-10 - Confrontation</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_037</defName>
+    <label>Final Fantasy X - Blitz Off</label>
+    <clipPath>MusicExpanded/FFX/2-11 - Blitz Off</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_038</defName>
+    <label>Final Fantasy X - Auron's Theme</label>
+    <clipPath>MusicExpanded/FFX/2-12 - Auron's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_039</defName>
+    <label>Final Fantasy X - Mi'ihen Highway</label>
+    <clipPath>MusicExpanded/FFX/2-13 - Mi'ihen Highway</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_040</defName>
+    <label>Final Fantasy X - Brass de Chocobo</label>
+    <clipPath>MusicExpanded/FFX/2-14 - Brass de Chocobo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_041</defName>
+    <label>Final Fantasy X - Travel Agency</label>
+    <clipPath>MusicExpanded/FFX/2-15 - Travel Agency</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_042</defName>
+    <label>Final Fantasy X - Permitted Passage</label>
+    <clipPath>MusicExpanded/FFX/2-16 - Permitted Passage</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_043</defName>
+    <label>Final Fantasy X - Seymour's Theme</label>
+    <clipPath>MusicExpanded/FFX/2-17 - Seymour's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_044</defName>
+    <label>Final Fantasy X - Twilight</label>
+    <clipPath>MusicExpanded/FFX/2-18 - Twilight</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_045</defName>
+    <label>Final Fantasy X - Djose Temple</label>
+    <clipPath>MusicExpanded/FFX/2-19 - Djose Temple</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_046</defName>
+    <label>Final Fantasy X - Song of Prayer - Ixion</label>
+    <clipPath>MusicExpanded/FFX/2-20 - Song of Prayer - Ixion</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_047</defName>
+    <label>Final Fantasy X - Ride the Shoopuf</label>
+    <clipPath>MusicExpanded/FFX/2-21 - Ride the Shoopuf</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_048</defName>
+    <label>Final Fantasy X - Rikku's Theme</label>
+    <clipPath>MusicExpanded/FFX/2-22 - Rikku's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_049</defName>
+    <label>Final Fantasy X - Guadosalam</label>
+    <clipPath>MusicExpanded/FFX/2-23 - Guadosalam</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_050</defName>
+    <label>Final Fantasy X - Thunder Plains</label>
+    <clipPath>MusicExpanded/FFX/3-01 - Thunder Plains</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_051</defName>
+    <label>Final Fantasy X - Jecht's Theme</label>
+    <clipPath>MusicExpanded/FFX/3-02 - Jecht's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_052</defName>
+    <label>Final Fantasy X - Macalania Forest</label>
+    <clipPath>MusicExpanded/FFX/3-03 - Macalania Forest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_053</defName>
+    <label>Final Fantasy X - Sea of Mists</label>
+    <clipPath>MusicExpanded/FFX/3-04 - Sea of Mists</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_054</defName>
+    <label>Final Fantasy X - Temple Band</label>
+    <clipPath>MusicExpanded/FFX/3-05 - Temple Band</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_055</defName>
+    <label>Final Fantasy X - Seymour's Ambition</label>
+    <clipPath>MusicExpanded/FFX/3-06 - Seymour's Ambition</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_056</defName>
+    <label>Final Fantasy X - Song of Prayer ~ Siva</label>
+    <clipPath>MusicExpanded/FFX/3-07 - Song of Prayer ~ Siva</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_057</defName>
+    <label>Final Fantasy X - The Advancers</label>
+    <clipPath>MusicExpanded/FFX/3-08 - The Advancers</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_058</defName>
+    <label>Final Fantasy X - Blazing Desert</label>
+    <clipPath>MusicExpanded/FFX/3-09 - Blazing Desert</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_059</defName>
+    <label>Final Fantasy X - Crisis</label>
+    <clipPath>MusicExpanded/FFX/3-10 - Crisis</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_060</defName>
+    <label>Final Fantasy X - Revealed Truth</label>
+    <clipPath>MusicExpanded/FFX/3-11 - Revealed Truth</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_061</defName>
+    <label>Final Fantasy X - Takeoff</label>
+    <clipPath>MusicExpanded/FFX/3-12 - Takeoff</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_062</defName>
+    <label>Final Fantasy X - The Wedding</label>
+    <clipPath>MusicExpanded/FFX/3-13 - The Wedding</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_063</defName>
+    <label>Final Fantasy X - Assault</label>
+    <clipPath>MusicExpanded/FFX/3-14 - Assault</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_064</defName>
+    <label>Final Fantasy X - Tragedy</label>
+    <clipPath>MusicExpanded/FFX/3-15 - Tragedy</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_065</defName>
+    <label>Final Fantasy X - I Can Fly</label>
+    <clipPath>MusicExpanded/FFX/3-16 - I Can Fly</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_066</defName>
+    <label>Final Fantasy X - Path of Repentance</label>
+    <clipPath>MusicExpanded/FFX/3-17 - Path of Repentance</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_067</defName>
+    <label>Final Fantasy X - Song of Prayer ~ Bahamut</label>
+    <clipPath>MusicExpanded/FFX/3-18 - Song of Prayer ~ Bahamut</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_068</defName>
+    <label>Final Fantasy X - Time of Judgement</label>
+    <clipPath>MusicExpanded/FFX/3-19 - Time of Judgement</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_069</defName>
+    <label>Final Fantasy X - Father Murderer</label>
+    <clipPath>MusicExpanded/FFX/3-20 - Father Murderer</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_070</defName>
+    <label>Final Fantasy X - Suteki da ne</label>
+    <clipPath>MusicExpanded/FFX/3-21 - Suteki da ne</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_071</defName>
+    <label>Final Fantasy X - Yuna's Decision</label>
+    <clipPath>MusicExpanded/FFX/4-01 - Yuna's Decision</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_072</defName>
+    <label>Final Fantasy X - Lulu's Theme</label>
+    <clipPath>MusicExpanded/FFX/4-02 - Lulu's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_073</defName>
+    <label>Final Fantasy X - Brave Advancement</label>
+    <clipPath>MusicExpanded/FFX/4-03 - Brave Advancement</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_074</defName>
+    <label>Final Fantasy X - Song of Prayer ~ Youjinbo</label>
+    <clipPath>MusicExpanded/FFX/4-04 - Song of Prayer ~ Youjinbo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_075</defName>
+    <label>Final Fantasy X - People of the North Pole</label>
+    <clipPath>MusicExpanded/FFX/4-05 - People of the North Pole</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_076</defName>
+    <label>Final Fantasy X - Song of Prayer ~ Ronso Tribe</label>
+    <clipPath>MusicExpanded/FFX/4-06 - Song of Prayer ~ Ronso Tribe</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_077</defName>
+    <label>Final Fantasy X - Wandering Flame</label>
+    <clipPath>MusicExpanded/FFX/4-07 - Wandering Flame</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_078</defName>
+    <label>Final Fantasy X - Someday the Dream Will End</label>
+    <clipPath>MusicExpanded/FFX/4-08 - Someday the Dream Will End</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_079</defName>
+    <label>Final Fantasy X - Song of Prayer ~ Yunalesca</label>
+    <clipPath>MusicExpanded/FFX/4-09 - Song of Prayer ~ Yunalesca</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_080</defName>
+    <label>Final Fantasy X - Challenge</label>
+    <clipPath>MusicExpanded/FFX/4-10 - Challenge</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_081</defName>
+    <label>Final Fantasy X - To the End of the Abyss</label>
+    <clipPath>MusicExpanded/FFX/4-11 - To the End of the Abyss</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_082</defName>
+    <label>Final Fantasy X - Darkness</label>
+    <clipPath>MusicExpanded/FFX/4-12 - Darkness</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_083</defName>
+    <label>Final Fantasy X - Song of Prayer ~ Spira</label>
+    <clipPath>MusicExpanded/FFX/4-13 - Song of Prayer ~ Spira</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_084</defName>
+    <label>Final Fantasy X - The Deceased Laugh</label>
+    <clipPath>MusicExpanded/FFX/4-14 - The Deceased Laugh</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_085</defName>
+    <label>Final Fantasy X - Seymour Battle</label>
+    <clipPath>MusicExpanded/FFX/4-15 - Seymour Battle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_086</defName>
+    <label>Final Fantasy X - Song of Prayer ~ Anima</label>
+    <clipPath>MusicExpanded/FFX/4-16 - Song of Prayer ~ Anima</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_087</defName>
+    <label>Final Fantasy X - Summoned Beast Battle</label>
+    <clipPath>MusicExpanded/FFX/4-17 - Summoned Beast Battle</clipPath>
+    <cue>BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_088</defName>
+    <label>Final Fantasy X - Decisive Battle</label>
+    <clipPath>MusicExpanded/FFX/4-18 - Decisive Battle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_089</defName>
+    <label>Final Fantasy X - Ending Theme</label>
+    <clipPath>MusicExpanded/FFX/4-19 - Ending Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_090</defName>
+    <label>Final Fantasy X - Please Remember</label>
+    <clipPath>MusicExpanded/FFX/4-20 - 'Please Remember'</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFX_091</defName>
+    <label>Final Fantasy X - Suteki da ne (orchestra version)</label>
+    <clipPath>MusicExpanded/FFX/4-21 - Suteki da ne (orchestra version)</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+</Defs>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- FFXI Opening Theme</label>
+    <defName>FFXI_001</defName>
+    <clipPath>MusicExpanded/FF11/FFXI Opening Theme</clipPath>
+    <cue>MainMenu</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Vana'diel March</label>
+    <defName>FFXI_002</defName>
+    <clipPath>MusicExpanded/FF11/Vana'diel March</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- The Kingdom of San d'Oria</label>
+    <defName>FFXI_003</defName>
+    <clipPath>MusicExpanded/FF11/The Kingdom of San d'Oria</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Ronfaure</label>
+    <defName>FFXI_004</defName>
+    <clipPath>MusicExpanded/FF11/Ronfaure</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Battle Theme</label>
+    <defName>FFXI_005</defName>
+    <clipPath>MusicExpanded/FF11/Battle Theme</clipPath>
+    <cue>BattleSmall</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Chateau d'Oraguille</label>
+    <defName>FFXI_006</defName>
+    <clipPath>MusicExpanded/FF11/Chateau d'Oraguille</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Batallia Downs</label>
+    <defName>FFXI_007</defName>
+    <clipPath>MusicExpanded/FF11/Batallia Downs</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- The Republic of Bastok</label>
+    <defName>FFXI_008</defName>
+    <clipPath>MusicExpanded/FF11/The Republic of Bastok</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Gustaberg</label>
+    <defName>FFXI_009</defName>
+    <clipPath>MusicExpanded/FF11/Gustaberg</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Metalworks</label>
+    <defName>FFXI_010</defName>
+    <clipPath>MusicExpanded/FF11/Metalworks</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Rolanberry Fields</label>
+    <defName>FFXI_011</defName>
+    <clipPath>MusicExpanded/FF11/Rolanberry Fields</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- The Federation of Windurst</label>
+    <defName>FFXI_012</defName>
+    <clipPath>MusicExpanded/FF11/The Federation of Windurst</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Heavens Tower</label>
+    <defName>FFXI_013</defName>
+    <clipPath>MusicExpanded/FF11/Heavens Tower</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Sarutabaruta</label>
+    <defName>FFXI_014</defName>
+    <clipPath>MusicExpanded/FF11/Sarutabaruta</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Battle in the Dungeons</label>
+    <defName>FFXI_015</defName>
+    <clipPath>MusicExpanded/FF11/Battle in the Dungeons</clipPath>
+    <cue>BattleMedium</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Sauromugue Champaign</label>
+    <defName>FFXI_016</defName>
+    <clipPath>MusicExpanded/FF11/Sauromugue Champaign</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Mhaura</label>
+    <defName>FFXI_017</defName>
+    <clipPath>MusicExpanded/FF11/Mhaura</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Buccaneers</label>
+    <defName>FFXI_018</defName>
+    <clipPath>MusicExpanded/FF11/Buccaneers</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Battle Theme #2</label>
+    <defName>FFXI_019</defName>
+    <clipPath>MusicExpanded/FF11/Battle Theme #2</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Voyager</label>
+    <defName>FFXI_020</defName>
+    <clipPath>MusicExpanded/FF11/Voyager</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Selbina</label>
+    <defName>FFXI_021</defName>
+    <clipPath>MusicExpanded/FF11/Selbina</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Prelude</label>
+    <defName>FFXI_022</defName>
+    <clipPath>MusicExpanded/FF11/Prelude</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Regeneracy</label>
+    <defName>FFXI_023</defName>
+    <clipPath>MusicExpanded/FF11/Regeneracy</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Hume Male</label>
+    <defName>FFXI_024</defName>
+    <clipPath>MusicExpanded/FF11/Hume Male</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Hume Female</label>
+    <defName>FFXI_025</defName>
+    <clipPath>MusicExpanded/FF11/Hume Female</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Elvaan Male</label>
+    <defName>FFXI_026</defName>
+    <clipPath>MusicExpanded/FF11/Elvaan Male</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Elvaan Female</label>
+    <defName>FFXI_027</defName>
+    <clipPath>MusicExpanded/FF11/Elvaan Female</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Tarutaru Male</label>
+    <defName>FFXI_028</defName>
+    <clipPath>MusicExpanded/FF11/Tarutaru Male</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Tarutaru Female</label>
+    <defName>FFXI_029</defName>
+    <clipPath>MusicExpanded/FF11/Tarutaru Female</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Mithra</label>
+    <defName>FFXI_030</defName>
+    <clipPath>MusicExpanded/FF11/Mithra</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Galka</label>
+    <defName>FFXI_031</defName>
+    <clipPath>MusicExpanded/FF11/Galka</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Airship</label>
+    <defName>FFXI_032</defName>
+    <clipPath>MusicExpanded/FF11/Airship</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- The Grand Duchy of Jeuno</label>
+    <defName>FFXI_033</defName>
+    <clipPath>MusicExpanded/FF11/The Grand Duchy of Jeuno</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Ru'Lude Gardens</label>
+    <defName>FFXI_034</defName>
+    <clipPath>MusicExpanded/FF11/Ru'Lude Gardens</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Recollection</label>
+    <defName>FFXI_035</defName>
+    <clipPath>MusicExpanded/FF11/Recollection</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Anxiety</label>
+    <defName>FFXI_036</defName>
+    <clipPath>MusicExpanded/FF11/Anxiety</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Battle in the Dungeon #2</label>
+    <defName>FFXI_037</defName>
+    <clipPath>MusicExpanded/FF11/Battle in the Dungeon #2</clipPath>
+    <cue>BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Blackout</label>
+    <defName>FFXI_038</defName>
+    <clipPath>MusicExpanded/FF11/Blackout</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Mog House</label>
+    <defName>FFXI_039</defName>
+    <clipPath>MusicExpanded/FF11/Mog House</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Hopelessness</label>
+    <defName>FFXI_040</defName>
+    <clipPath>MusicExpanded/FF11/Hopelessness</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Fury</label>
+    <defName>FFXI_041</defName>
+    <clipPath>MusicExpanded/FF11/Fury</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Tough Battle</label>
+    <defName>FFXI_042</defName>
+    <clipPath>MusicExpanded/FF11/Tough Battle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Sorrow</label>
+    <defName>FFXI_043</defName>
+    <clipPath>MusicExpanded/FF11/Sorrow</clipPath>
+    <cue>BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Sometime, Somewhere</label>
+    <defName>FFXI_044</defName>
+    <clipPath>MusicExpanded/FF11/Sometime, Somewhere</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Xarcabard</label>
+    <defName>FFXI_045</defName>
+    <clipPath>MusicExpanded/FF11/Xarcabard</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Despair (Memoro de la S^tono)</label>
+    <defName>FFXI_046</defName>
+    <clipPath>MusicExpanded/FF11/Despair (Memoro de la S^tono)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Castle Zvahl</label>
+    <defName>FFXI_047</defName>
+    <clipPath>MusicExpanded/FF11/Castle Zvahl</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Shadow Lord</label>
+    <defName>FFXI_048</defName>
+    <clipPath>MusicExpanded/FF11/Shadow Lord</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Awakening</label>
+    <defName>FFXI_049</defName>
+    <clipPath>MusicExpanded/FF11/Awakening</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Repression (Memoro de la S^tono)</label>
+    <defName>FFXI_050</defName>
+    <clipPath>MusicExpanded/FF11/Repression (Memoro de la S^tono)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XI- Vana'diel March #2</label>
+    <defName>FFXI_051</defName>
+    <clipPath>MusicExpanded/FF11/Vana'diel March #2</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+</Defs>

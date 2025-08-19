@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_001</defName>
+    <label>Final Fantasy XVI – 01 Land of Eikons</label>
+    <clipPath>MusicExpanded/FF16/01_Land_of_Eikons</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_002</defName>
+    <label>Final Fantasy XVI – 02 Away (Overture)</label>
+    <clipPath>MusicExpanded/FF16/02_Away_Overture</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_003</defName>
+    <label>Final Fantasy XVI – 03 The Lion and the Hare – The Nysa Defile</label>
+    <clipPath>MusicExpanded/FF16/03_The_Lion_and_the_Hare_The_Nysa_Defile</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_004</defName>
+    <label>Final Fantasy XVI – 04 Shattered</label>
+    <clipPath>MusicExpanded/FF16/04_Shattered</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_005</defName>
+    <label>Final Fantasy XVI – 05 A Rose Is a Rose</label>
+    <clipPath>MusicExpanded/FF16/05_A_Rose_Is_a_Rose</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_006</defName>
+    <label>Final Fantasy XVI – 06 Return of the Archduke</label>
+    <clipPath>MusicExpanded/FF16/06_Return_of_the_Archduke</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_007</defName>
+    <label>Final Fantasy XVI – 07 My Lady</label>
+    <clipPath>MusicExpanded/FF16/07_My_Lady</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_008</defName>
+    <label>Final Fantasy XVI – 08 Into the Mire – Stillwind</label>
+    <clipPath>MusicExpanded/FF16/08_Into_the_Mire_Stillwind</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_009</defName>
+    <label>Final Fantasy XVI – 09 Sixteen Bells</label>
+    <clipPath>MusicExpanded/FF16/09_Sixteen_Bells</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_010</defName>
+    <label>Final Fantasy XVI – 10 There His Quarry Lies</label>
+    <clipPath>MusicExpanded/FF16/10_There_His_Quarry_Lies</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_011</defName>
+    <label>Final Fantasy XVI – 11 On the Wind Borne – The Rosarian Ducal Anthem</label>
+    <clipPath>MusicExpanded/FF16/11_On_the_Wind_Borne_The_Rosarian_Ducal_Anthem</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_012</defName>
+    <label>Final Fantasy XVI – 12 Duty</label>
+    <clipPath>MusicExpanded/FF16/12_Duty</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_013</defName>
+    <label>Final Fantasy XVI – 13 Enterprising Traders</label>
+    <clipPath>MusicExpanded/FF16/13_Enterprising_Traders</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_014</defName>
+    <label>Final Fantasy XVI – 14 Betrayal – Phoenix Gate</label>
+    <clipPath>MusicExpanded/FF16/14_Betrayal_Phoenix_Gate</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_015</defName>
+    <label>Final Fantasy XVI – 15 Twin Flames</label>
+    <clipPath>MusicExpanded/FF16/15_Twin_Flames</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_016</defName>
+    <label>Final Fantasy XVI – 16 Found</label>
+    <clipPath>MusicExpanded/FF16/16_Found</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_017</defName>
+    <label>Final Fantasy XVI – 17 Time and Death</label>
+    <clipPath>MusicExpanded/FF16/17_Time_and_Death</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_018</defName>
+    <label>Final Fantasy XVI – 18 The Match</label>
+    <clipPath>MusicExpanded/FF16/18_The_Match</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_019</defName>
+    <label>Final Fantasy XVI – 19 Away</label>
+    <clipPath>MusicExpanded/FF16/19_Away</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_020</defName>
+    <label>Final Fantasy XVI – 20 Winter's Bound</label>
+    <clipPath>MusicExpanded/FF16/20_Winter_s_Bound</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_021</defName>
+    <label>Final Fantasy XVI – 21 Frozen Tears</label>
+    <clipPath>MusicExpanded/FF16/21_Frozen_Tears</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_022</defName>
+    <label>Final Fantasy XVI – 22 Tonitrua ex Machina</label>
+    <clipPath>MusicExpanded/FF16/22_Tonitrua_ex_Machina</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_023</defName>
+    <label>Final Fantasy XVI – 23 Gathering Clouds</label>
+    <clipPath>MusicExpanded/FF16/23_Gathering_Clouds</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_024</defName>
+    <label>Final Fantasy XVI – 01 Hide, Hideaway</label>
+    <clipPath>MusicExpanded/FF16/01_Hide_Hideaway</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_025</defName>
+    <label>Final Fantasy XVI – 02 Lovely, Dark, and Deep – The Greatwood</label>
+    <clipPath>MusicExpanded/FF16/02_Lovely_Dark_and_Deep_The_Greatwood</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_026</defName>
+    <label>Final Fantasy XVI – 03 Too Bloody Quiet</label>
+    <clipPath>MusicExpanded/FF16/03_Too_Bloody_Quiet</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_027</defName>
+    <label>Final Fantasy XVI – 04 The Chase</label>
+    <clipPath>MusicExpanded/FF16/04_The_Chase</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_028</defName>
+    <label>Final Fantasy XVI – 05 Idylls of the Empire</label>
+    <clipPath>MusicExpanded/FF16/05_Idylls_of_the_Empire</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_029</defName>
+    <label>Final Fantasy XVI – 06 Words to the Wise</label>
+    <clipPath>MusicExpanded/FF16/06_Words_to_the_Wise</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_030</defName>
+    <label>Final Fantasy XVI – 07 Domina</label>
+    <clipPath>MusicExpanded/FF16/07_Domina</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_031</defName>
+    <label>Final Fantasy XVI – 08 Before the Storm – Caer Norvent</label>
+    <clipPath>MusicExpanded/FF16/08_Before_the_Storm_Caer_Norvent</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_032</defName>
+    <label>Final Fantasy XVI – 09 Thunderstorm</label>
+    <clipPath>MusicExpanded/FF16/09_Thunderstorm</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_033</defName>
+    <label>Final Fantasy XVI – 10 The Shepherd's Lament</label>
+    <clipPath>MusicExpanded/FF16/10_The_Shepherd_s_Lament</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_034</defName>
+    <label>Final Fantasy XVI – 11 A Land in Peril</label>
+    <clipPath>MusicExpanded/FF16/11_A_Land_in_Peril</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_035</defName>
+    <label>Final Fantasy XVI – 12 Brothers</label>
+    <clipPath>MusicExpanded/FF16/12_Brothers</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_036</defName>
+    <label>Final Fantasy XVI – 13 Downburst</label>
+    <clipPath>MusicExpanded/FF16/13_Downburst</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_037</defName>
+    <label>Final Fantasy XVI – 14 Vengeance Found</label>
+    <clipPath>MusicExpanded/FF16/14_Vengeance_Found</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_038</defName>
+    <label>Final Fantasy XVI – 15 Calling</label>
+    <clipPath>MusicExpanded/FF16/15_Calling</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_039</defName>
+    <label>Final Fantasy XVI – 16 Against the Wind – The Eye of the Tempest</label>
+    <clipPath>MusicExpanded/FF16/16_Against_the_Wind_The_Eye_of_the_Tempest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_040</defName>
+    <label>Final Fantasy XVI – 17 Control</label>
+    <clipPath>MusicExpanded/FF16/17_Control</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_041</defName>
+    <label>Final Fantasy XVI – 18 Fanfare</label>
+    <clipPath>MusicExpanded/FF16/18_Fanfare</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_042</defName>
+    <label>Final Fantasy XVI – 19 Fall from Grace</label>
+    <clipPath>MusicExpanded/FF16/19_Fall_from_Grace</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_043</defName>
+    <label>Final Fantasy XVI – 20 A Pendant Darkly</label>
+    <clipPath>MusicExpanded/FF16/20_A_Pendant_Darkly</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_044</defName>
+    <label>Final Fantasy XVI – 21 The Battle of Belenus Tor</label>
+    <clipPath>MusicExpanded/FF16/21_The_Battle_of_Belenus_Tor</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_045</defName>
+    <label>Final Fantasy XVI – 01 Whitewater – Kingsfall</label>
+    <clipPath>MusicExpanded/FF16/01_Whitewater_Kingsfall</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_046</defName>
+    <label>Final Fantasy XVI – 02 Dying Sun</label>
+    <clipPath>MusicExpanded/FF16/02_Dying_Sun</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_047</defName>
+    <label>Final Fantasy XVI – 03 On the Shoulders of Giants</label>
+    <clipPath>MusicExpanded/FF16/03_On_the_Shoulders_of_Giants</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_048</defName>
+    <label>Final Fantasy XVI – 04 A Long Way Down</label>
+    <clipPath>MusicExpanded/FF16/04_A_Long_Way_Down</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_049</defName>
+    <label>Final Fantasy XVI – 05 Out of Time</label>
+    <clipPath>MusicExpanded/FF16/05_Out_of_Time</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_050</defName>
+    <label>Final Fantasy XVI – 06 Aligned</label>
+    <clipPath>MusicExpanded/FF16/06_Aligned</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_051</defName>
+    <label>Final Fantasy XVI – 07 Forevermore – The Grand Duchy of Rosaria</label>
+    <clipPath>MusicExpanded/FF16/07_Forevermore_The_Grand_Duchy_of_Rosaria</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_052</defName>
+    <label>Final Fantasy XVI – 08 The Founder's Footsteps</label>
+    <clipPath>MusicExpanded/FF16/08_The_Founder_s_Footsteps</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_053</defName>
+    <label>Final Fantasy XVI – 09 Happier Times</label>
+    <clipPath>MusicExpanded/FF16/09_Happier_Times</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_054</defName>
+    <label>Final Fantasy XVI – 10 A Prayer to Metia</label>
+    <clipPath>MusicExpanded/FF16/10_A_Prayer_to_Metia</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_055</defName>
+    <label>Final Fantasy XVI – 11 Found (Reprise)</label>
+    <clipPath>MusicExpanded/FF16/11_Found_Reprise</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_056</defName>
+    <label>Final Fantasy XVI – 12 Where It All Began – The Apodytery</label>
+    <clipPath>MusicExpanded/FF16/12_Where_It_All_Began_The_Apodytery</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_057</defName>
+    <label>Final Fantasy XVI – 13 We Are You</label>
+    <clipPath>MusicExpanded/FF16/13_We_Are_You</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_058</defName>
+    <label>Final Fantasy XVI – 14 Away (Refrain)</label>
+    <clipPath>MusicExpanded/FF16/14_Away_Refrain</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_059</defName>
+    <label>Final Fantasy XVI – 15 Press On</label>
+    <clipPath>MusicExpanded/FF16/15_Press_On</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_060</defName>
+    <label>Final Fantasy XVI – 16 Find the Flame</label>
+    <clipPath>MusicExpanded/FF16/16_Find_the_Flame</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_061</defName>
+    <label>Final Fantasy XVI – 17 Who I Really Am</label>
+    <clipPath>MusicExpanded/FF16/17_Who_I_Really_Am</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_062</defName>
+    <label>Final Fantasy XVI – 18 The Se7enth Sin</label>
+    <clipPath>MusicExpanded/FF16/18_The_Se7enth_Sin</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_063</defName>
+    <label>Final Fantasy XVI – 19 A Mother's Madness</label>
+    <clipPath>MusicExpanded/FF16/19_A_Mother_s_Madness</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_064</defName>
+    <label>Final Fantasy XVI – 20 Unforgiven</label>
+    <clipPath>MusicExpanded/FF16/20_Unforgiven</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_065</defName>
+    <label>Final Fantasy XVI – 21 Acceptance</label>
+    <clipPath>MusicExpanded/FF16/21_Acceptance</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_066</defName>
+    <label>Final Fantasy XVI – 22 The Journey Begins</label>
+    <clipPath>MusicExpanded/FF16/22_The_Journey_Begins</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_067</defName>
+    <label>Final Fantasy XVI – 23 Will of the Goddess</label>
+    <clipPath>MusicExpanded/FF16/23_Will_of_the_Goddess</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_068</defName>
+    <label>Final Fantasy XVI – 24 Histoire – The Holy Empire of Sanbreque</label>
+    <clipPath>MusicExpanded/FF16/24_Histoire_The_Holy_Empire_of_Sanbreque</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_069</defName>
+    <label>Final Fantasy XVI – 25 Sway</label>
+    <clipPath>MusicExpanded/FF16/25_Sway</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_070</defName>
+    <label>Final Fantasy XVI – 26 Treading Lightly – The Glass Gate</label>
+    <clipPath>MusicExpanded/FF16/26_Treading_Lightly_The_Glass_Gate</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_071</defName>
+    <label>Final Fantasy XVI – 27 Reflections – Drake's Head</label>
+    <clipPath>MusicExpanded/FF16/27_Reflections_Drake_s_Head</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_072</defName>
+    <label>Final Fantasy XVI – 28 The Heart</label>
+    <clipPath>MusicExpanded/FF16/28_The_Heart</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_073</defName>
+    <label>Final Fantasy XVI – 29 Deliver Us Thunder</label>
+    <clipPath>MusicExpanded/FF16/29_Deliver_Us_Thunder</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_074</defName>
+    <label>Final Fantasy XVI – 30 Babel of Savage Screams</label>
+    <clipPath>MusicExpanded/FF16/30_Babel_of_Savage_Screams</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_075</defName>
+    <label>Final Fantasy XVI – 31 Catacecaumene</label>
+    <clipPath>MusicExpanded/FF16/31_Catacecaumene</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_076</defName>
+    <label>Final Fantasy XVI – 32 The Outlaw</label>
+    <clipPath>MusicExpanded/FF16/32_The_Outlaw</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_077</defName>
+    <label>Final Fantasy XVI – 33 In Ashen Grip</label>
+    <clipPath>MusicExpanded/FF16/33_In_Ashen_Grip</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_078</defName>
+    <label>Final Fantasy XVI – 01 Evening the Odds</label>
+    <clipPath>MusicExpanded/FF16/01_Evening_the_Odds</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_079</defName>
+    <label>Final Fantasy XVI – 02 Our Terms</label>
+    <clipPath>MusicExpanded/FF16/02_Our_Terms</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_080</defName>
+    <label>Final Fantasy XVI – 03 The State of the Realm</label>
+    <clipPath>MusicExpanded/FF16/03_The_State_of_the_Realm</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_081</defName>
+    <label>Final Fantasy XVI – 04 And Melancholy Marked Him</label>
+    <clipPath>MusicExpanded/FF16/04_And_Melancholy_Marked_Him</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_082</defName>
+    <label>Final Fantasy XVI – 05 Death Looks Down</label>
+    <clipPath>MusicExpanded/FF16/05_Death_Looks_Down</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_083</defName>
+    <label>Final Fantasy XVI – 06 Ghosts of the Past</label>
+    <clipPath>MusicExpanded/FF16/06_Ghosts_of_the_Past</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_084</defName>
+    <label>Final Fantasy XVI – 07 Color and Crackle</label>
+    <clipPath>MusicExpanded/FF16/07_Color_and_Crackle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_085</defName>
+    <label>Final Fantasy XVI – 08 An Unexpected Visit</label>
+    <clipPath>MusicExpanded/FF16/08_An_Unexpected_Visit</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_086</defName>
+    <label>Final Fantasy XVI – 09 An Outlaw's Uncle</label>
+    <clipPath>MusicExpanded/FF16/09_An_Outlaw_s_Uncle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_087</defName>
+    <label>Final Fantasy XVI – 10 Currents</label>
+    <clipPath>MusicExpanded/FF16/10_Currents</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_088</defName>
+    <label>Final Fantasy XVI – 11 Blood Beats Black – The Iron Kingdom</label>
+    <clipPath>MusicExpanded/FF16/11_Blood_Beats_Black_The_Iron_Kingdom</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_089</defName>
+    <label>Final Fantasy XVI – 12 Out of the Frying Pan</label>
+    <clipPath>MusicExpanded/FF16/12_Out_of_the_Frying_Pan</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_090</defName>
+    <label>Final Fantasy XVI – 13 The Promise</label>
+    <clipPath>MusicExpanded/FF16/13_The_Promise</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_091</defName>
+    <label>Final Fantasy XVI – 14 Enter the Oratrix – Drake's Breath</label>
+    <clipPath>MusicExpanded/FF16/14_Enter_the_Oratrix_Drake_s_Breath</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_092</defName>
+    <label>Final Fantasy XVI – 15 Màtham Sanomh</label>
+    <clipPath>MusicExpanded/FF16/15_M_tham_Sanomh</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_093</defName>
+    <label>Final Fantasy XVI – 16 Monster</label>
+    <clipPath>MusicExpanded/FF16/16_Monster</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_094</defName>
+    <label>Final Fantasy XVI – 17 Fire and Ice</label>
+    <clipPath>MusicExpanded/FF16/17_Fire_and_Ice</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_095</defName>
+    <label>Final Fantasy XVI – 18   </label>
+    <clipPath>MusicExpanded/FF16/18</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_096</defName>
+    <label>Final Fantasy XVI – 19 In the Light of the Mothercrystal</label>
+    <clipPath>MusicExpanded/FF16/19_In_the_Light_of_the_Mothercrystal</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_097</defName>
+    <label>Final Fantasy XVI – 20 Azure Skies</label>
+    <clipPath>MusicExpanded/FF16/20_Azure_Skies</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_098</defName>
+    <label>Final Fantasy XVI – 21 Desert Ministrations</label>
+    <clipPath>MusicExpanded/FF16/21_Desert_Ministrations</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_099</defName>
+    <label>Final Fantasy XVI – 22 Beasts among Beasts</label>
+    <clipPath>MusicExpanded/FF16/22_Beasts_among_Beasts</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_100</defName>
+    <label>Final Fantasy XVI – 23 Homecoming – Rosalith</label>
+    <clipPath>MusicExpanded/FF16/23_Homecoming_Rosalith</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_101</defName>
+    <label>Final Fantasy XVI – 24   </label>
+    <clipPath>MusicExpanded/FF16/24</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_102</defName>
+    <label>Final Fantasy XVI – 25 The Host</label>
+    <clipPath>MusicExpanded/FF16/25_The_Host</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_103</defName>
+    <label>Final Fantasy XVI – 26 King of the World</label>
+    <clipPath>MusicExpanded/FF16/26_King_of_the_World</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_104</defName>
+    <label>Final Fantasy XVI – 27 To Sail Forbidden Seas</label>
+    <clipPath>MusicExpanded/FF16/27_To_Sail_Forbidden_Seas</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_105</defName>
+    <label>Final Fantasy XVI – 28 A Guest Most Welcome</label>
+    <clipPath>MusicExpanded/FF16/28_A_Guest_Most_Welcome</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_106</defName>
+    <label>Final Fantasy XVI – 29 Vive l'Empire</label>
+    <clipPath>MusicExpanded/FF16/29_Vive_l_Empire</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_107</defName>
+    <label>Final Fantasy XVI – 30 Sand and Stone – The Republic of Dhalmekia</label>
+    <clipPath>MusicExpanded/FF16/30_Sand_and_Stone_The_Republic_of_Dhalmekia</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_108</defName>
+    <label>Final Fantasy XVI – 31 Fanfarrado de Chocobo</label>
+    <clipPath>MusicExpanded/FF16/31_Fanfarrado_de_Chocobo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_109</defName>
+    <label>Final Fantasy XVI – 32 The Thousand Tables</label>
+    <clipPath>MusicExpanded/FF16/32_The_Thousand_Tables</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_110</defName>
+    <label>Final Fantasy XVI – 33 Courage</label>
+    <clipPath>MusicExpanded/FF16/33_Courage</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_111</defName>
+    <label>Final Fantasy XVI – 01 Anon Becomes a Mountain – Castle Dazbog</label>
+    <clipPath>MusicExpanded/FF16/01_Anon_Becomes_a_Mountain_Castle_Dazbog</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_112</defName>
+    <label>Final Fantasy XVI – 02 Titanomachy – Drake's Fang</label>
+    <clipPath>MusicExpanded/FF16/02_Titanomachy_Drake_s_Fang</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_113</defName>
+    <label>Final Fantasy XVI – 03 Visions of Wind</label>
+    <clipPath>MusicExpanded/FF16/03_Visions_of_Wind</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_114</defName>
+    <label>Final Fantasy XVI – 04 Do or Die</label>
+    <clipPath>MusicExpanded/FF16/04_Do_or_Die</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_115</defName>
+    <label>Final Fantasy XVI – 05 Titan Lost</label>
+    <clipPath>MusicExpanded/FF16/05_Titan_Lost</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_116</defName>
+    <label>Final Fantasy XVI – 06 Heart of Stone</label>
+    <clipPath>MusicExpanded/FF16/06_Heart_of_Stone</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_117</defName>
+    <label>Final Fantasy XVI – 07 Consciousness</label>
+    <clipPath>MusicExpanded/FF16/07_Consciousness</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_118</defName>
+    <label>Final Fantasy XVI – 08 Champion of the Empire</label>
+    <clipPath>MusicExpanded/FF16/08_Champion_of_the_Empire</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_119</defName>
+    <label>Final Fantasy XVI – 09 Uninvited</label>
+    <clipPath>MusicExpanded/FF16/09_Uninvited</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_120</defName>
+    <label>Final Fantasy XVI – 10 O'er Shifting Sands Lie – The Republic of Dhalmekia</label>
+    <clipPath>MusicExpanded/FF16/10_O_er_Shifting_Sands_Lie_The_Republic_of_Dhalmekia</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_121</defName>
+    <label>Final Fantasy XVI – 11 From the Shadows</label>
+    <clipPath>MusicExpanded/FF16/11_From_the_Shadows</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_122</defName>
+    <label>Final Fantasy XVI – 12 My Decree</label>
+    <clipPath>MusicExpanded/FF16/12_My_Decree</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_123</defName>
+    <label>Final Fantasy XVI – 13 Rooftops – The Crystalline Dominion</label>
+    <clipPath>MusicExpanded/FF16/13_Rooftops_The_Crystalline_Dominion</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_124</defName>
+    <label>Final Fantasy XVI – 14 Dreadwyrm</label>
+    <clipPath>MusicExpanded/FF16/14_Dreadwyrm</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_125</defName>
+    <label>Final Fantasy XVI – 15 A City in Ruin</label>
+    <clipPath>MusicExpanded/FF16/15_A_City_in_Ruin</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_126</defName>
+    <label>Final Fantasy XVI – 16 Facets of Rage – Drake's Tail</label>
+    <clipPath>MusicExpanded/FF16/16_Facets_of_Rage_Drake_s_Tail</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_127</defName>
+    <label>Final Fantasy XVI – 17 Bloodlines</label>
+    <clipPath>MusicExpanded/FF16/17_Bloodlines</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_128</defName>
+    <label>Final Fantasy XVI – 18 The Flame Alights</label>
+    <clipPath>MusicExpanded/FF16/18_The_Flame_Alights</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_129</defName>
+    <label>Final Fantasy XVI – 19 Fiery Resolve</label>
+    <clipPath>MusicExpanded/FF16/19_Fiery_Resolve</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_130</defName>
+    <label>Final Fantasy XVI – 20 Beyond the Heavens</label>
+    <clipPath>MusicExpanded/FF16/20_Beyond_the_Heavens</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_131</defName>
+    <label>Final Fantasy XVI – 21 Ascension</label>
+    <clipPath>MusicExpanded/FF16/21_Ascension</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_132</defName>
+    <label>Final Fantasy XVI – 22 Brotherhood</label>
+    <clipPath>MusicExpanded/FF16/22_Brotherhood</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_133</defName>
+    <label>Final Fantasy XVI – 23 Kinslayer</label>
+    <clipPath>MusicExpanded/FF16/23_Kinslayer</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_134</defName>
+    <label>Final Fantasy XVI – 24 Miséricorde</label>
+    <clipPath>MusicExpanded/FF16/24_Mis_ricorde</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_135</defName>
+    <label>Final Fantasy XVI – 25 The Final Temptation</label>
+    <clipPath>MusicExpanded/FF16/25_The_Final_Temptation</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_136</defName>
+    <label>Final Fantasy XVI – 01 Twilight</label>
+    <clipPath>MusicExpanded/FF16/01_Twilight</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_137</defName>
+    <label>Final Fantasy XVI – 02 Dark Designs</label>
+    <clipPath>MusicExpanded/FF16/02_Dark_Designs</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_138</defName>
+    <label>Final Fantasy XVI – 03 We Travel Together</label>
+    <clipPath>MusicExpanded/FF16/03_We_Travel_Together</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_139</defName>
+    <label>Final Fantasy XVI – 04 The Desert Dims – The Republic of Dhalmekia</label>
+    <clipPath>MusicExpanded/FF16/04_The_Desert_Dims_The_Republic_of_Dhalmekia</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_140</defName>
+    <label>Final Fantasy XVI – 05 Undying</label>
+    <clipPath>MusicExpanded/FF16/05_Undying</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_141</defName>
+    <label>Final Fantasy XVI – 06 Under Siege – The Free Cities of Kanver</label>
+    <clipPath>MusicExpanded/FF16/06_Under_Siege_The_Free_Cities_of_Kanver</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_142</defName>
+    <label>Final Fantasy XVI – 07 Furor</label>
+    <clipPath>MusicExpanded/FF16/07_Furor</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_143</defName>
+    <label>Final Fantasy XVI – 08 The World Won't Save Itself</label>
+    <clipPath>MusicExpanded/FF16/08_The_World_Won_t_Save_Itself</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_144</defName>
+    <label>Final Fantasy XVI – 09 No Risk, No Reward</label>
+    <clipPath>MusicExpanded/FF16/09_No_Risk_No_Reward</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_145</defName>
+    <label>Final Fantasy XVI – 10 Darkest before the Dawn – The Imperial Territory of Rosaria</label>
+    <clipPath>MusicExpanded/FF16/10_Darkest_before_the_Dawn_The_Imperial_Territory_of_Rosaria</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_146</defName>
+    <label>Final Fantasy XVI – 11 The Parting Sea</label>
+    <clipPath>MusicExpanded/FF16/11_The_Parting_Sea</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_147</defName>
+    <label>Final Fantasy XVI – 12 Army of One – The Einherjar</label>
+    <clipPath>MusicExpanded/FF16/12_Army_of_One_The_Einherjar</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_148</defName>
+    <label>Final Fantasy XVI – 13 Mighty Acts of God</label>
+    <clipPath>MusicExpanded/FF16/13_Mighty_Acts_of_God</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_149</defName>
+    <label>Final Fantasy XVI – 14 Not Alone</label>
+    <clipPath>MusicExpanded/FF16/14_Not_Alone</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_150</defName>
+    <label>Final Fantasy XVI – 15 Heal</label>
+    <clipPath>MusicExpanded/FF16/15_Heal</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_151</defName>
+    <label>Final Fantasy XVI – 16 Indomitable – The Kingdom of Waloed</label>
+    <clipPath>MusicExpanded/FF16/16_Indomitable_The_Kingdom_of_Waloed</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_152</defName>
+    <label>Final Fantasy XVI – 17 Heavensbound – Reverie</label>
+    <clipPath>MusicExpanded/FF16/17_Heavensbound_Reverie</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_153</defName>
+    <label>Final Fantasy XVI – 18 Salvation</label>
+    <clipPath>MusicExpanded/FF16/18_Salvation</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_154</defName>
+    <label>Final Fantasy XVI – 19 Sever</label>
+    <clipPath>MusicExpanded/FF16/19_Sever</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_155</defName>
+    <label>Final Fantasy XVI – 20 The Riddle</label>
+    <clipPath>MusicExpanded/FF16/20_The_Riddle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_156</defName>
+    <label>Final Fantasy XVI – 21 One with God</label>
+    <clipPath>MusicExpanded/FF16/21_One_with_God</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_157</defName>
+    <label>Final Fantasy XVI – 22 Fighting Fate</label>
+    <clipPath>MusicExpanded/FF16/22_Fighting_Fate</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_158</defName>
+    <label>Final Fantasy XVI – 23 Bastion – Stonhyrr</label>
+    <clipPath>MusicExpanded/FF16/23_Bastion_Stonhyrr</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_159</defName>
+    <label>Final Fantasy XVI – 24 To Boldly Go</label>
+    <clipPath>MusicExpanded/FF16/24_To_Boldly_Go</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_160</defName>
+    <label>Final Fantasy XVI – 25 A Debt Repaid</label>
+    <clipPath>MusicExpanded/FF16/25_A_Debt_Repaid</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_161</defName>
+    <label>Final Fantasy XVI – 26 Rapture</label>
+    <clipPath>MusicExpanded/FF16/26_Rapture</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_162</defName>
+    <label>Final Fantasy XVI – 01 Bow</label>
+    <clipPath>MusicExpanded/FF16/01_Bow</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_163</defName>
+    <label>Final Fantasy XVI – 02 Death Shall Me Devour</label>
+    <clipPath>MusicExpanded/FF16/02_Death_Shall_Me_Devour</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_164</defName>
+    <label>Final Fantasy XVI – 03 'Neath the Pall</label>
+    <clipPath>MusicExpanded/FF16/03_Neath_the_Pall</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_165</defName>
+    <label>Final Fantasy XVI – 04 Once More</label>
+    <clipPath>MusicExpanded/FF16/04_Once_More</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_166</defName>
+    <label>Final Fantasy XVI – 05 Eschaton</label>
+    <clipPath>MusicExpanded/FF16/05_Eschaton</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_167</defName>
+    <label>Final Fantasy XVI – 06 In Darkness Hope – The Holy Empire of Sanbreque</label>
+    <clipPath>MusicExpanded/FF16/06_In_Darkness_Hope_The_Holy_Empire_of_Sanbreque</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_168</defName>
+    <label>Final Fantasy XVI – 07 A Better World</label>
+    <clipPath>MusicExpanded/FF16/07_A_Better_World</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_169</defName>
+    <label>Final Fantasy XVI – 08 Final Farewells</label>
+    <clipPath>MusicExpanded/FF16/08_Final_Farewells</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_170</defName>
+    <label>Final Fantasy XVI – 09 A Far Cry from Heaven</label>
+    <clipPath>MusicExpanded/FF16/09_A_Far_Cry_from_Heaven</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_171</defName>
+    <label>Final Fantasy XVI – 10 Only Forgiveness</label>
+    <clipPath>MusicExpanded/FF16/10_Only_Forgiveness</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_172</defName>
+    <label>Final Fantasy XVI – 11 The Nexus</label>
+    <clipPath>MusicExpanded/FF16/11_The_Nexus</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_173</defName>
+    <label>Final Fantasy XVI – 12 Faith</label>
+    <clipPath>MusicExpanded/FF16/12_Faith</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_174</defName>
+    <label>Final Fantasy XVI – 13 Logos</label>
+    <clipPath>MusicExpanded/FF16/13_Logos</clipPath>
+    <cue>MainMenu</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_175</defName>
+    <label>Final Fantasy XVI – 14 Hymn of the Penitent</label>
+    <clipPath>MusicExpanded/FF16/14_Hymn_of_the_Penitent</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_176</defName>
+    <label>Final Fantasy XVI – 15 All As One</label>
+    <clipPath>MusicExpanded/FF16/15_All_As_One</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_177</defName>
+    <label>Final Fantasy XVI – 16 Horizons</label>
+    <clipPath>MusicExpanded/FF16/16_Horizons</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_178</defName>
+    <label>Final Fantasy XVI – 17 Holos</label>
+    <clipPath>MusicExpanded/FF16/17_Holos</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_179</defName>
+    <label>Final Fantasy XVI – 18 My Star</label>
+    <clipPath>MusicExpanded/FF16/18_My_Star</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_180</defName>
+    <label>Final Fantasy XVI – 19 A New Beginning</label>
+    <clipPath>MusicExpanded/FF16/19_A_New_Beginning</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_181</defName>
+    <label>Final Fantasy XVI – 20 Land of Eikons (Reprise)</label>
+    <clipPath>MusicExpanded/FF16/20_Land_of_Eikons_Reprise</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_182</defName>
+    <label>Final Fantasy XVI – 01 Cut from the Cloth</label>
+    <clipPath>MusicExpanded/FF16/01_Cut_from_the_Cloth</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_183</defName>
+    <label>Final Fantasy XVI – 02 Priceless</label>
+    <clipPath>MusicExpanded/FF16/02_Priceless</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_184</defName>
+    <label>Final Fantasy XVI – 03 Old Friend</label>
+    <clipPath>MusicExpanded/FF16/03_Old_Friend</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_185</defName>
+    <label>Final Fantasy XVI – 04 Death of a Council</label>
+    <clipPath>MusicExpanded/FF16/04_Death_of_a_Council</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_186</defName>
+    <label>Final Fantasy XVI – 05 Pathetic Creatures</label>
+    <clipPath>MusicExpanded/FF16/05_Pathetic_Creatures</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_187</defName>
+    <label>Final Fantasy XVI – 06 Where the Heart Is</label>
+    <clipPath>MusicExpanded/FF16/06_Where_the_Heart_Is</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_188</defName>
+    <label>Final Fantasy XVI – 07 Mourning</label>
+    <clipPath>MusicExpanded/FF16/07_Mourning</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_189</defName>
+    <label>Final Fantasy XVI – 08 The Mural</label>
+    <clipPath>MusicExpanded/FF16/08_The_Mural</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_190</defName>
+    <label>Final Fantasy XVI – 09 For the Water Was a Wall</label>
+    <clipPath>MusicExpanded/FF16/09_For_the_Water_Was_a_Wall</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_191</defName>
+    <label>Final Fantasy XVI – 10 Away (1987)</label>
+    <clipPath>MusicExpanded/FF16/10_Away_1987</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_192</defName>
+    <label>Final Fantasy XVI – 11 The Grand Duchy of Rosaria – Unused</label>
+    <clipPath>MusicExpanded/FF16/11_The_Grand_Duchy_of_Rosaria_Unused</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_193</defName>
+    <label>Final Fantasy XVI – 12 The Imperial Province of Rosaria – Unused</label>
+    <clipPath>MusicExpanded/FF16/12_The_Imperial_Province_of_Rosaria_Unused</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_194</defName>
+    <label>Final Fantasy XVI – 13 The Republic of Dhalmekia – Unused</label>
+    <clipPath>MusicExpanded/FF16/13_The_Republic_of_Dhalmekia_Unused</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_195</defName>
+    <label>Final Fantasy XVI – 14 Mid Boss Battle – Unused</label>
+    <clipPath>MusicExpanded/FF16/14_Mid_Boss_Battle_Unused</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_196</defName>
+    <label>Final Fantasy XVI – 15   </label>
+    <clipPath>MusicExpanded/FF16/15</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_197</defName>
+    <label>Final Fantasy XVI – 16 The Kingdom of Waloed – Unused</label>
+    <clipPath>MusicExpanded/FF16/16_The_Kingdom_of_Waloed_Unused</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_198</defName>
+    <label>Final Fantasy XVI – 17   </label>
+    <clipPath>MusicExpanded/FF16/17</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF16_199</defName>
+    <label>Final Fantasy XVI – 18 Ending – Unused</label>
+    <clipPath>MusicExpanded/FF16/18_Ending_Unused</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+</Defs>

@@ -1,0 +1,544 @@
+<Defs>
+
+   <!-- Main Tracks -->	
+
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- A Great Success</label>
+		<defName>ME_FF7_A_Great_Success</defName>
+		<clipPath>MusicExpanded/FF7/FF7- A Great Success</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- A Secret Sleeping in the Deep Sea</label>
+		<defName>ME_FF7_A_Secret_Sleeping_in_the_Deep_Sea</defName>
+		<clipPath>MusicExpanded/FF7/FF7- A Secret Sleeping in the Deep Sea</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Aeris' Theme</label>
+		<defName>ME_FF7_Aeris_Theme</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Aeris' Theme</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Ahead on Our Way</label>
+		<defName>ME_FF7_Ahead_on_Our_Way</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Ahead on Our Way</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Anxious Heart</label>
+		<defName>ME_FF7_Anxious_Heart</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Anxious Heart</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Barret's Theme</label>
+		<defName>ME_FF7_Barrets_Theme</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Barret's Theme</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Cait Sith's Theme</label>
+		<defName>ME_FF7_Cait_Siths_Theme</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Cait Sith's Theme</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Chasing the Black-Caped Man</label>
+		<defName>ME_FF7_Chasing_the_Black_Caped_Man</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Chasing the Black-Caped Man</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Cinco de Chocobo</label>
+		<defName>ME_FF7_Cinco_de_Chocobo</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Cinco de Chocobo</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Continue</label>
+		<defName>ME_FF7_Continue</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Continue</clipPath>
+	</MusicExpanded.TrackDef>	
+	
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Cosmo Canyon</label>
+		<defName>ME_FF7_Cosmo_Canyon</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Cosmo Canyon</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Costa del Sol</label>
+		<defName>ME_FF7_Costa_del_Sol</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Costa del Sol</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Debut</label>
+		<defName>ME_FF7_Debut</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Debut</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Descendant of Shinobi</label>
+		<defName>ME_FF7_Descendent_of_Shinobi</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Descendant of Shinobi</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Don of the Slums</label>
+		<defName>ME_FF7_Don_of_the_Slums</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Don of the Slums</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Electric de Chocobo</label>
+		<defName>ME_FF7_Electric_de_Chocobo</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Electric de Chocobo</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Fanfare</label>
+		<defName>ME_FF7_Fanfare</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Fanfare</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Farm Boy</label>
+		<defName>ME_FF7_Farm_Boy</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Farm Boy</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Fiddle de Chocobo</label>
+		<defName>ME_FF7_Fiddle_de_Chocobo</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Fiddle de Chocobo</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Flowers Blooming in the Church</label>
+		<defName>ME_FF7_Flowers_Blooming_in_the_Church</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Flowers Blooming in the Church</clipPath>
+	</MusicExpanded.TrackDef>	
+
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Forested Temple</label>
+		<defName>ME_FF7_Forested_Temple</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Forested Temple</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Gold Saucer</label>
+		<defName>ME_FF7_Gold_Saucer</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Gold Saucer</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Good Night, Until Tomorrow!</label>
+		<defName>ME_FF7_Good_Night_Until_Tomorrow</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Good Night, Until Tomorrow!</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Great Warrior</label>
+		<defName>ME_FF7_Great_Warrior</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Great Warrior</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Holding My Thoughts in My Heart</label>
+		<defName>ME_FF7_Holding_My_Thoughts_in_My_Heart</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Holding My Thoughts in My Heart</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Honeybee Manor</label>
+		<defName>ME_FF7_Honeybee_Manor</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Honeybee Manor</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- If You Open Your Heart...</label>
+		<defName>ME_FF7_If_You_Open_Your_Heart</defName>
+		<clipPath>MusicExpanded/FF7/FF7- If You Open Your Heart...</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Interrupted by Fireworks</label>
+		<defName>ME_FF7_Interrupted_by_Fireworks</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Interrupted by Fireworks</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- It's Difficult to Stand on Both Feet, Isn't It</label>
+		<defName>ME_FF7_Its_Difficult_to_Stand_on_Both_Feet_Isnt_It</defName>
+		<clipPath>MusicExpanded/FF7/FF7- It's Difficult to Stand on Both Feet, Isn't It</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Life Stream</label>
+		<defName>ME_FF7_Life_Stream</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Life Stream</clipPath>
+	</MusicExpanded.TrackDef>	
+
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Lurking in the Darkness</label>
+		<defName>ME_FF7_Lurking_in_the_Darkness</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Lurking in the Darkness</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Mako Reactor</label>
+		<defName>ME_FF7_Mako_Reactor</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Mako Reactor</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Mark of the Traitor</label>
+		<defName>ME_FF7_Mark_of_the_Traitor</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Mark of the Traitor</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Mining Town</label>
+		<defName>ME_FF7_Mining_Town</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Mining Town</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Off the Edge of Despair</label>
+		<defName>ME_FF7_Off_the_Edge_of_Despair</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Off the Edge of Despair</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- On That Day, 5 Years Ago</label>
+		<defName>ME_FF7_On_That_Day_Five_Years_Ago</defName>
+		<clipPath>MusicExpanded/FF7/FF7- On That Day, 5 Years Ago</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- On the Other Side of the Mountain</label>
+		<defName>ME_FF7_On_the_Other_Side_of_the_Mountain</defName>
+		<clipPath>MusicExpanded/FF7/FF7- On the Other Side of the Mountain</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Oppressed People</label>
+		<defName>ME_FF7_Oppressed_People</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Oppressed People</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Parochial Town</label>
+		<defName>ME_FF7_Parochial_Town</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Parochial Town</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Racing Chocobos</label>
+		<defName>ME_FF7_Racing_Chocobos</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Racing Chocobos</clipPath>
+	</MusicExpanded.TrackDef>	
+
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Reunion</label>
+		<defName>ME_FF7_Reunion</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Reunion</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Rufus' Welcoming Ceremony</label>
+		<defName>ME_FF7_Rufus_Welcoming_Ceremony</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Rufus' Welcoming Ceremony</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Sandy Badlands</label>
+		<defName>ME_FF7_Sandy_Badlands</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Sandy Badlands</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Sending a Dream into the Universe</label>
+		<defName>ME_FF7_Sending_a_Dream_into_the_Universe</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Sending a Dream into the Universe</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Shinra Corporation</label>
+		<defName>ME_FF7_Shinra_Corporation</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Shinra Corporation</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Shinra Explodes</label>
+		<defName>ME_FF7_Shinra_Explodes</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Shinra Explodes</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Steal the Tiny Bronco!</label>
+		<defName>ME_FF7_Steal_the_Tiny_Bronco</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Steal the Tiny Bronco!</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Stolen Materia</label>
+		<defName>ME_FF7_Stolen_Materia</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Stolen Materia</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Tango of Tears</label>
+		<defName>ME_FF7_Tango_of_Tears</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Tango of Tears</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- The Great Northern Cave</label>
+		<defName>ME_FF7_The_Great_Northern_Cave</defName>
+		<clipPath>MusicExpanded/FF7/FF7- The Great Northern Cave</clipPath>
+	</MusicExpanded.TrackDef>	
+
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- The Highwind Takes to the Skies</label>
+		<defName>ME_FF7_The_Highwind_Takes_to_the_Skies</defName>
+		<clipPath>MusicExpanded/FF7/FF7- The Highwind Takes to the Skies</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- The Nightmare's Beginning</label>
+		<defName>ME_FF7_The_Nightmares_Beginning</defName>
+		<clipPath>MusicExpanded/FF7/FF7- The Nightmare's Beginning</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- The Special Pose!</label>
+		<defName>ME_FF7_The_Special_Pose</defName>
+		<clipPath>MusicExpanded/FF7/FF7- The Special Pose!</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Those Chosen By the Planet</label>
+		<defName>ME_FF7_Those_Chosen_By_the_Planet</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Those Chosen By the Planet (No Intro)</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Those Chosen By the Planet (Intro)</label>
+		<defName>ME_FF7_Those_Chosen_By_the_Planet_Intro</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Those Chosen By the Planet</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Tifa's Theme</label>
+		<defName>ME_FF7_Tifas_Theme</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Tifa's Theme</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Trail of Blood</label>
+		<defName>ME_FF7_Trail_of_Blood</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Trail of Blood</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Turks' Theme</label>
+		<defName>ME_FF7_Turks_Theme</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Turks' Theme</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Underneath the Rotting Pizza</label>
+		<defName>ME_FF7_Underneath_the_Rotting_Pizza</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Underneath the Rotting Pizza</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Waltz de Chocobo</label>
+		<defName>ME_FF7_Waltz_de_Chocobo</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Waltz de Chocobo</clipPath>
+	</MusicExpanded.TrackDef>	
+
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Who Am I?</label>
+		<defName>ME_FF7_Who_Am_I</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Who Am I</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Who Are You?</label>
+		<defName>ME_FF7_Who_Are_You</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Who Are You</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- World Crisis</label>
+		<defName>ME_FF7_World_Crisis</defName>
+		<clipPath>MusicExpanded/FF7/FF7- World Crisis</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Wutai</label>
+		<defName>ME_FF7_Wutai</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Wutai</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- You Can Hear the Cry of the Planet</label>
+		<defName>ME_FF7_You_Can_Hear_the_Cry_of_the_Planet</defName>
+		<clipPath>MusicExpanded/FF7/FF7- You Can Hear the Cry of the Planet</clipPath>
+	</MusicExpanded.TrackDef>	
+	
+   <!-- Main Menu and Credits -->	
+	
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Main Theme</label>
+		<defName>ME_FF7_Main_Theme</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Main Theme of Final Fantasy VII</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Staff Roll</label>
+		<defName>ME_FF7_Staff_Roll</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Staff Roll</clipPath>
+        <cue>Credits</cue>
+    </MusicExpanded.TrackDef>	
+	
+   <!-- Battle Tracks Small -->	
+   
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Attacking Weapon!</label>
+		<defName>ME_FF7_Attacking_Weapon</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Attacking Weapon!</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>   
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Crazy Motorcycle Chase</label>
+		<defName>ME_FF7_Crazy_Motorcycle_Chase</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Crazy Motorcycle Chase</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Fighting</label>
+		<defName>ME_FF7_Fighting</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Fighting</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Hurry!</label>
+		<defName>ME_FF7_Hurry</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Hurry!</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Judgement Day</label>
+		<defName>ME_FF7_Judgement_Day</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Judgement Day</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Red XIII's Theme</label>
+		<defName>ME_FF7_Red_XIII_Theme</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Red XIII's Theme</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>	
+		<label>Final Fantasy 7- Weapon Raid</label>
+		<defName>ME_FF7_Weapon_Raid</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Weapon Raid</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>		
+	
+   <!-- Battle Tracks Medium -->
+   
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Bombing Mission</label>
+		<defName>ME_FF7_Bombing_Mission</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Bombing Mission</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Hurry, Faster!</label>
+		<defName>ME_FF7_Hurry_Faster</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Hurry, Faster!</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Infiltrating Shinra Tower</label>
+		<defName>ME_FF7_Infiltrating_Shinra_Tower</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Infiltrating Shinra Tower</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Jenova Absolute</label>
+		<defName>ME_FF7_Jenova_Absolute</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Jenova Absolute</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Opening ~ Bombing Mission</label>
+		<defName>ME_FF7_Opening_Bombing_Mission</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Opening ~ Bombing Mission</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- The Mako Cannon Fires!</label>
+		<defName>ME_FF7_The_Mako_Cannon_Fires</defName>
+		<clipPath>MusicExpanded/FF7/FF7- The Mako Cannon Fires!</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>
+	
+   <!-- Battle Tracks Large -->
+   
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Cid's Theme</label>
+		<defName>ME_FF7_Cids_Theme</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Cid's Theme</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Fortress of the Condor</label>
+		<defName>ME_FF7_Fortress_of_the_Condor</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Fortress of the Condor</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Full-Scale Attack</label>
+		<defName>ME_FF7_Full_Scale_Attack</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Full-Scale Attack</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- J-E-N-O-V-A</label>
+		<defName>ME_FF7_Jenova</defName>
+		<clipPath>MusicExpanded/FF7/FF7- J-E-N-O-V-A</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- Still More Fighting</label>
+		<defName>ME_FF7_Still_More_Fighting</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Still More Fighting</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>	
+	
+	
+   <!-- Battle Tracks Legendary -->	   
+	
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- One-Winged Angel</label>
+		<defName>ME_FF7_One_Winged_Angel</defName>
+		<clipPath>MusicExpanded/FF7/FF7- One-Winged Angel</clipPath>
+		<cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- The Birth of God</label>
+		<defName>ME_FF7_The_Birth_of_God</defName>
+		<clipPath>MusicExpanded/FF7/FF7- The Birth of God</clipPath>
+		<cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Final Fantasy 7- The Countdown Begins</label>
+		<defName>ME_FF7_The_Countdown_Begins</defName>
+		<clipPath>MusicExpanded/FF7/FF7- The Countdown Begins</clipPath>
+		<cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>	
+	
+   <!-- Custom Cues -->	
+   
+	<MusicExpanded.TrackDef>	
+		<label>Final Fantasy 7- Buried in the Snow</label>
+		<defName>ME_FF7_Buried_in_the_Snow</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Buried in the Snow</clipPath>
+		<cue>Custom</cue>
+        <cueData>HardSnow</cueData>			
+    </MusicExpanded.TrackDef>	
+	
+	<MusicExpanded.TrackDef>	
+		<label>Final Fantasy 7- Buried in the Snow</label>
+		<defName>ME_FF7_Buried_in_the_Hard_Snow</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Buried in the Snow</clipPath>
+		<cue>Custom</cue>
+        <cueData>SoftSnow</cueData>		
+    </MusicExpanded.TrackDef>		
+
+	<MusicExpanded.TrackDef>	
+		<label>Final Fantasy 7- Aeris' Theme</label>
+		<defName>ME_FF7_Aeris_Theme_Death</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Aeris' Theme</clipPath>
+		<cue>Custom</cue>
+        <cueData>Death</cueData>		
+    </MusicExpanded.TrackDef>	
+	
+	<!-- Anomaly Tracks -->	
+	
+	<MusicExpanded.TrackDef>	
+		<label>Final Fantasy 7- Aeris' Theme</label>
+		<defName>ME_FF7_Aeris_Theme_Relax</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Aeris' Theme</clipPath>
+		<cue>Custom</cue>
+        <cueData>HorrorRelax</cueData>		
+    </MusicExpanded.TrackDef>		
+	
+	<MusicExpanded.TrackDef>	
+		<label>Final Fantasy 7- Aeris' Theme</label>
+		<defName>ME_FF7_Aeris_Theme_Tension</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Aeris' Theme</clipPath>
+		<cue>Custom</cue>
+        <cueData>HorrorTension</cueData>		
+    </MusicExpanded.TrackDef>	
+
+	<MusicExpanded.TrackDef>	
+		<label>Final Fantasy 7- Aeris' Theme</label>
+		<defName>ME_FF7_Aeris_Theme_Combat</defName>
+		<clipPath>MusicExpanded/FF7/FF7- Aeris' Theme</clipPath>
+		<cue>Custom</cue>
+        <cueData>HorrorCombat</cueData>		
+    </MusicExpanded.TrackDef>		
+	
+</Defs>

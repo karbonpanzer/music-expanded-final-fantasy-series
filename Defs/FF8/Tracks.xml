@@ -1,0 +1,438 @@
+<?xml version="1.0" ?>
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_001</defName>
+    <label>Final Fantasy 8 - Liberi Fatali</label>
+    <clipPath>MusicExpanded/FF8/Liberi Fatali</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_002</defName>
+    <label>Final Fantasy 8 - Balamb Garden</label>
+    <clipPath>MusicExpanded/FF8/Balamb Garden</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_003</defName>
+    <label>Final Fantasy 8 - Blue Fields</label>
+    <clipPath>MusicExpanded/FF8/Blue Fields</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_004</defName>
+    <label>Final Fantasy 8 - a Don't Be Afraid</label>
+    <clipPath>MusicExpanded/FF8/a Don't Be Afraid</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_005</defName>
+    <label>Final Fantasy 8 - b Don't Be Afraid (Extended Intro)</label>
+    <clipPath>MusicExpanded/FF8/b Don't Be Afraid (Extended Intro)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_006</defName>
+    <label>Final Fantasy 8 - The Winner</label>
+    <clipPath>MusicExpanded/FF8/The Winner</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_007</defName>
+    <label>Final Fantasy 8 - Find Your Way</label>
+    <clipPath>MusicExpanded/FF8/Find Your Way</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_008</defName>
+    <label>Final Fantasy 8 - SeeD</label>
+    <clipPath>MusicExpanded/FF8/SeeD</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_009</defName>
+    <label>Final Fantasy 8 - The Landing</label>
+    <clipPath>MusicExpanded/FF8/The Landing</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_010</defName>
+    <label>Final Fantasy 8 - a Starting Up</label>
+    <clipPath>MusicExpanded/FF8/a Starting Up</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_011</defName>
+    <label>Final Fantasy 8 - b Starting Up (Looped)</label>
+    <clipPath>MusicExpanded/FF8/b Starting Up (Looped)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_012</defName>
+    <label>Final Fantasy 8 - Force Your Way</label>
+    <clipPath>MusicExpanded/FF8/Force Your Way</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_013</defName>
+    <label>Final Fantasy 8 - The Loser</label>
+    <clipPath>MusicExpanded/FF8/The Loser</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_014</defName>
+    <label>Final Fantasy 8 - Never Look Back</label>
+    <clipPath>MusicExpanded/FF8/Never Look Back</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_015</defName>
+    <label>Final Fantasy 8 - Dead End</label>
+    <clipPath>MusicExpanded/FF8/Dead End</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_016</defName>
+    <label>Final Fantasy 8 - Breezy</label>
+    <clipPath>MusicExpanded/FF8/Breezy</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_017</defName>
+    <label>Final Fantasy 8 - Shuffle or Boogie</label>
+    <clipPath>MusicExpanded/FF8/Shuffle or Boogie</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_018</defName>
+    <label>Final Fantasy 8 - Waltz For the Moon</label>
+    <clipPath>MusicExpanded/FF8/Waltz For the Moon</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_019</defName>
+    <label>Final Fantasy 8 - Tell Me</label>
+    <clipPath>MusicExpanded/FF8/Tell Me</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_020</defName>
+    <label>Final Fantasy 8 - Fear</label>
+    <clipPath>MusicExpanded/FF8/Fear</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_021</defName>
+    <label>Final Fantasy 8 - The Man With the Machine Gun</label>
+    <clipPath>MusicExpanded/FF8/The Man With the Machine Gun</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_022</defName>
+    <label>Final Fantasy 8 - Julia</label>
+    <clipPath>MusicExpanded/FF8/Julia</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_023</defName>
+    <label>Final Fantasy 8 - Roses and Wine</label>
+    <clipPath>MusicExpanded/FF8/Roses and Wine</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_024</defName>
+    <label>Final Fantasy 8 - Junction</label>
+    <clipPath>MusicExpanded/FF8/Junction</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_025</defName>
+    <label>Final Fantasy 8 - Timber Owls</label>
+    <clipPath>MusicExpanded/FF8/Timber Owls</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_026</defName>
+    <label>Final Fantasy 8 - My Mind</label>
+    <clipPath>MusicExpanded/FF8/My Mind</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_027</defName>
+    <label>Final Fantasy 8 - The Mission</label>
+    <clipPath>MusicExpanded/FF8/The Mission</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_028</defName>
+    <label>Final Fantasy 8 - Martial Law</label>
+    <clipPath>MusicExpanded/FF8/Martial Law</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_029</defName>
+    <label>Final Fantasy 8 - Cactus Jack (Galbadian Anthem)</label>
+    <clipPath>MusicExpanded/FF8/Cactus Jack (Galbadian Anthem)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_030</defName>
+    <label>Final Fantasy 8 - Only a Plank Between One and Perdition</label>
+    <clipPath>MusicExpanded/FF8/Only a Plank Between One and Perdition</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_031</defName>
+    <label>Final Fantasy 8 - Succession of Witches</label>
+    <clipPath>MusicExpanded/FF8/Succession of Witches</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_032</defName>
+    <label>Final Fantasy 8 - a Galbadia Garden</label>
+    <clipPath>MusicExpanded/FF8/a Galbadia Garden</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_033</defName>
+    <label>Final Fantasy 8 - b Galbadia Garden (No Intro)</label>
+    <clipPath>MusicExpanded/FF8/b Galbadia Garden (No Intro)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_034</defName>
+    <label>Final Fantasy 8 - Unrest</label>
+    <clipPath>MusicExpanded/FF8/Unrest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_035</defName>
+    <label>Final Fantasy 8 - Under Her Control</label>
+    <clipPath>MusicExpanded/FF8/Under Her Control</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_036</defName>
+    <label>Final Fantasy 8 - The Stage is Set</label>
+    <clipPath>MusicExpanded/FF8/The Stage is Set</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_037</defName>
+    <label>Final Fantasy 8 - A Sacrifice</label>
+    <clipPath>MusicExpanded/FF8/A Sacrifice</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_038</defName>
+    <label>Final Fantasy 8 - a Fithos Lusec Wecos Vinosec</label>
+    <clipPath>MusicExpanded/FF8/a Fithos Lusec Wecos Vinosec</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_039</defName>
+    <label>Final Fantasy 8 - b Fithos Lusec Wecos Vinosec (Variation)</label>
+    <clipPath>MusicExpanded/FF8/b Fithos Lusec Wecos Vinosec (Variation)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_040</defName>
+    <label>Final Fantasy 8 - Intruders</label>
+    <clipPath>MusicExpanded/FF8/Intruders</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_041</defName>
+    <label>Final Fantasy 8 - Premonition</label>
+    <clipPath>MusicExpanded/FF8/Premonition</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_042</defName>
+    <label>Final Fantasy 8 - Wounded</label>
+    <clipPath>MusicExpanded/FF8/Wounded</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_043</defName>
+    <label>Final Fantasy 8 - Fragments of Memories</label>
+    <clipPath>MusicExpanded/FF8/Fragments of Memories</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_044</defName>
+    <label>Final Fantasy 8 - Jailed</label>
+    <clipPath>MusicExpanded/FF8/Jailed</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_045</defName>
+    <label>Final Fantasy 8 - Rivals</label>
+    <clipPath>MusicExpanded/FF8/Rivals</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_046</defName>
+    <label>Final Fantasy 8 - Ami</label>
+    <clipPath>MusicExpanded/FF8/Ami</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_047</defName>
+    <label>Final Fantasy 8 - The Spy</label>
+    <clipPath>MusicExpanded/FF8/The Spy</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_048</defName>
+    <label>Final Fantasy 8 - Retaliation</label>
+    <clipPath>MusicExpanded/FF8/Retaliation</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_049</defName>
+    <label>Final Fantasy 8 - Movin'</label>
+    <clipPath>MusicExpanded/FF8/Movin'</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_050</defName>
+    <label>Final Fantasy 8 - Blue Sky</label>
+    <clipPath>MusicExpanded/FF8/Blue Sky</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_051</defName>
+    <label>Final Fantasy 8 - Drifting</label>
+    <clipPath>MusicExpanded/FF8/Drifting</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_052</defName>
+    <label>Final Fantasy 8 - Heresy</label>
+    <clipPath>MusicExpanded/FF8/Heresy</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_053</defName>
+    <label>Final Fantasy 8 - Fisherman's Horizon</label>
+    <clipPath>MusicExpanded/FF8/Fisherman's Horizon</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_054</defName>
+    <label>Final Fantasy 8 - Odeka ke Chocobo</label>
+    <clipPath>MusicExpanded/FF8/Odeka ke Chocobo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_055</defName>
+    <label>Final Fantasy 8 - Where I Belong</label>
+    <clipPath>MusicExpanded/FF8/Where I Belong</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_056</defName>
+    <label>Final Fantasy 8 - The Oath</label>
+    <clipPath>MusicExpanded/FF8/The Oath</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_057</defName>
+    <label>Final Fantasy 8 - Slide Show Part 1</label>
+    <clipPath>MusicExpanded/FF8/Slide Show Part 1</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_058</defName>
+    <label>Final Fantasy 8 - Slide Show Part 2</label>
+    <clipPath>MusicExpanded/FF8/Slide Show Part 2</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_059</defName>
+    <label>Final Fantasy 8 - Love Grows</label>
+    <clipPath>MusicExpanded/FF8/Love Grows</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_060</defName>
+    <label>Final Fantasy 8 - The Salt Flats</label>
+    <clipPath>MusicExpanded/FF8/The Salt Flats</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_061</defName>
+    <label>Final Fantasy 8 - Trust Me</label>
+    <clipPath>MusicExpanded/FF8/Trust Me</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_062</defName>
+    <label>Final Fantasy 8 - Silence and Motion</label>
+    <clipPath>MusicExpanded/FF8/Silence and Motion</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_063</defName>
+    <label>Final Fantasy 8 - Dance with the Balamb-Fish</label>
+    <clipPath>MusicExpanded/FF8/Dance with the Balamb-Fish</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_064</defName>
+    <label>Final Fantasy 8 - a Tears of the Moon</label>
+    <clipPath>MusicExpanded/FF8/a Tears of the Moon</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_065</defName>
+    <label>Final Fantasy 8 - b Tears of the Moon (Descent)</label>
+    <clipPath>MusicExpanded/FF8/b Tears of the Moon (Descent)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_066</defName>
+    <label>Final Fantasy 8 - Residents</label>
+    <clipPath>MusicExpanded/FF8/Residents</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_067</defName>
+    <label>Final Fantasy 8 - Eyes On Me</label>
+    <clipPath>MusicExpanded/FF8/Eyes On Me</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_068</defName>
+    <label>Final Fantasy 8 - Mods de Chocobo</label>
+    <clipPath>MusicExpanded/FF8/Mods de Chocobo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_069</defName>
+    <label>Final Fantasy 8 - Ride On</label>
+    <clipPath>MusicExpanded/FF8/Ride On</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_070</defName>
+    <label>Final Fantasy 8 - Truth</label>
+    <clipPath>MusicExpanded/FF8/Truth</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_071</defName>
+    <label>Final Fantasy 8 - Lunatic Pandora</label>
+    <clipPath>MusicExpanded/FF8/Lunatic Pandora</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_072</defName>
+    <label>Final Fantasy 8 - Compression of Time</label>
+    <clipPath>MusicExpanded/FF8/Compression of Time</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_073</defName>
+    <label>Final Fantasy 8 - The Castle</label>
+    <clipPath>MusicExpanded/FF8/The Castle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_074</defName>
+    <label>Final Fantasy 8 - The Legendary Beast</label>
+    <clipPath>MusicExpanded/FF8/The Legendary Beast</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_075</defName>
+    <label>Final Fantasy 8 - Maybe I'm a Lion</label>
+    <clipPath>MusicExpanded/FF8/Maybe I'm a Lion</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_076</defName>
+    <label>Final Fantasy 8 - The Extreme</label>
+    <clipPath>MusicExpanded/FF8/The Extreme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_077</defName>
+    <label>Final Fantasy 8 - The Successor</label>
+    <clipPath>MusicExpanded/FF8/The Successor</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_078</defName>
+    <label>Final Fantasy 8 - Ending Theme</label>
+    <clipPath>MusicExpanded/FF8/Ending Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_079</defName>
+    <label>Final Fantasy 8 - Overture</label>
+    <clipPath>MusicExpanded/FF8/Overture</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_080</defName>
+    <label>Final Fantasy 8 - The Landing (Demo)</label>
+    <clipPath>MusicExpanded/FF8/The Landing (Demo)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_081</defName>
+    <label>Final Fantasy 8 - Celebration (Irish Jig)</label>
+    <clipPath>MusicExpanded/FF8/Celebration (Irish Jig)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_082</defName>
+    <label>Final Fantasy 8 - Celebration (Rinoa's Theme)</label>
+    <clipPath>MusicExpanded/FF8/Celebration (Rinoa's Theme)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_083</defName>
+    <label>Final Fantasy 8 - Bass Chant</label>
+    <clipPath>MusicExpanded/FF8/Bass Chant</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_084</defName>
+    <label>Final Fantasy 8 - Male Chant</label>
+    <clipPath>MusicExpanded/FF8/Male Chant</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_085</defName>
+    <label>Final Fantasy 8 - Alto Chant</label>
+    <clipPath>MusicExpanded/FF8/Alto Chant</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_086</defName>
+    <label>Final Fantasy 8 - Female Chant</label>
+    <clipPath>MusicExpanded/FF8/Female Chant</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF8_087</defName>
+    <label>Final Fantasy 8 - Choir Chant</label>
+    <clipPath>MusicExpanded/FF8/Choir Chant</clipPath>
+  </MusicExpanded.TrackDef>
+</Defs>

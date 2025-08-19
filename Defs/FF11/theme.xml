@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.ThemeDef>
+    <defName>ME_FFXI</defName>
+    <label>Music Expanded: Final Fantasy XI OST</label>
+    <iconPath>UI/Icons/FF11</iconPath>
+    <description>Music Expanded mod generated from Final Fantasy XI OST with default and battle cues.</description>
+    <tracks>
+      <!-- Ambient Tracks -->
+      <li>FFXI_002</li>
+      <li>FFXI_003</li>
+      <li>FFXI_004</li>
+      <li>FFXI_006</li>
+      <li>FFXI_007</li>
+      <li>FFXI_008</li>
+      <li>FFXI_009</li>
+      <li>FFXI_010</li>
+      <li>FFXI_011</li>
+      <li>FFXI_012</li>
+      <li>FFXI_013</li>
+      <li>FFXI_014</li>
+      <li>FFXI_016</li>
+      <li>FFXI_017</li>
+      <li>FFXI_018</li>
+      <li>FFXI_019</li>
+      <li>FFXI_020</li>
+      <li>FFXI_021</li>
+      <li>FFXI_022</li>
+      <li>FFXI_023</li>
+      <li>FFXI_024</li>
+      <li>FFXI_025</li>
+      <li>FFXI_026</li>
+      <li>FFXI_027</li>
+      <li>FFXI_028</li>
+      <li>FFXI_029</li>
+      <li>FFXI_030</li>
+      <li>FFXI_031</li>
+      <li>FFXI_032</li>
+      <li>FFXI_033</li>
+      <li>FFXI_034</li>
+      <li>FFXI_035</li>
+      <li>FFXI_036</li>
+      <li>FFXI_038</li>
+      <li>FFXI_039</li>
+      <li>FFXI_040</li>
+      <li>FFXI_041</li>
+      <li>FFXI_042</li>
+      <li>FFXI_044</li>
+      <li>FFXI_045</li>
+      <li>FFXI_046</li>
+      <li>FFXI_047</li>
+      <li>FFXI_048</li>
+      <li>FFXI_049</li>
+      <li>FFXI_050</li>
+      <!-- Main Menu/Credits Tracks -->
+      <li>FFXI_001</li>
+      <li>FFXI_051</li>
+      <!-- Battle Tracks -->
+      <li>FFXI_005</li>
+      <li>FFXI_015</li>
+      <li>FFXI_037</li>
+      <li>FFXI_043</li>
+    </tracks>
+  </MusicExpanded.ThemeDef>
+</Defs>

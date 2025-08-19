@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Loop Demo</label>
+    <defName>FFXII_001</defName>
+    <clipPath>MusicExpanded/FF12/Loop Demo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- FINAL FANTASY ~FFXII Version~</label>
+    <defName>FFXII_002</defName>
+    <clipPath>MusicExpanded/FF12/FINAL FANTASY ~FFXII Version~</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Opening Movie (Theme of FINAL FANTASY XII)</label>
+    <defName>FFXII_003</defName>
+    <clipPath>MusicExpanded/FF12/Opening Movie (Theme of FINAL FANTASY XII)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Infiltration</label>
+    <defName>FFXII_004</defName>
+    <clipPath>MusicExpanded/FF12/Infiltration</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Boss Battle</label>
+    <defName>FFXII_005</defName>
+    <clipPath>MusicExpanded/FF12/Boss Battle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Auditory Hallucination</label>
+    <defName>FFXII_006</defName>
+    <clipPath>MusicExpanded/FF12/Auditory Hallucination</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Secret Practice</label>
+    <defName>FFXII_007</defName>
+    <clipPath>MusicExpanded/FF12/Secret Practice</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- A Small Happiness ()</label>
+    <defName>FFXII_008</defName>
+    <clipPath>MusicExpanded/FF12/A Small Happiness ()</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Royal City of RabanastreCity Ward Upper Stratum</label>
+    <defName>FFXII_009</defName>
+    <clipPath>MusicExpanded/FF12/The Royal City of RabanastreCity Ward Upper Stratum</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Penelo's Theme</label>
+    <defName>FFXII_010</defName>
+    <clipPath>MusicExpanded/FF12/Penelo's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Dream to be a Sky Pirate</label>
+    <defName>FFXII_011</defName>
+    <clipPath>MusicExpanded/FF12/The Dream to be a Sky Pirate</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Little Rascal</label>
+    <defName>FFXII_012</defName>
+    <clipPath>MusicExpanded/FF12/Little Rascal</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Dalmasca Eastersand</label>
+    <defName>FFXII_013</defName>
+    <clipPath>MusicExpanded/FF12/The Dalmasca Eastersand</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Level Up!</label>
+    <defName>FFXII_014</defName>
+    <clipPath>MusicExpanded/FF12/Level Up!</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Naivety</label>
+    <defName>FFXII_015</defName>
+    <clipPath>MusicExpanded/FF12/Naivety</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Coexistence (Imperial Version)</label>
+    <defName>FFXII_016</defName>
+    <clipPath>MusicExpanded/FF12/Coexistence (Imperial Version)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Signs of Change</label>
+    <defName>FFXII_017</defName>
+    <clipPath>MusicExpanded/FF12/Signs of Change</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Mission Start ()</label>
+    <defName>FFXII_018</defName>
+    <clipPath>MusicExpanded/FF12/Mission Start ()</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Rabanastre Downtown</label>
+    <defName>FFXII_019</defName>
+    <clipPath>MusicExpanded/FF12/Rabanastre Downtown</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Mission Failed ()</label>
+    <defName>FFXII_020</defName>
+    <clipPath>MusicExpanded/FF12/Mission Failed ()</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Quiet Determination</label>
+    <defName>FFXII_021</defName>
+    <clipPath>MusicExpanded/FF12/Quiet Determination</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Dalmasca Westersand</label>
+    <defName>FFXII_022</defName>
+    <clipPath>MusicExpanded/FF12/The Dalmasca Westersand</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Clan Headquarters</label>
+    <defName>FFXII_023</defName>
+    <clipPath>MusicExpanded/FF12/Clan Headquarters</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- A Small Bargain ()</label>
+    <defName>FFXII_024</defName>
+    <clipPath>MusicExpanded/FF12/A Small Bargain ()</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Giza Plains</label>
+    <defName>FFXII_025</defName>
+    <clipPath>MusicExpanded/FF12/Giza Plains</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Parting with Penelo</label>
+    <defName>FFXII_026</defName>
+    <clipPath>MusicExpanded/FF12/Parting with Penelo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Garamsythe Waterway</label>
+    <defName>FFXII_027</defName>
+    <clipPath>MusicExpanded/FF12/The Garamsythe Waterway</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- An Omen</label>
+    <defName>FFXII_028</defName>
+    <clipPath>MusicExpanded/FF12/An Omen</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Rebellion</label>
+    <defName>FFXII_029</defName>
+    <clipPath>MusicExpanded/FF12/Rebellion</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Nalbina Fortress Town Ward</label>
+    <defName>FFXII_030</defName>
+    <clipPath>MusicExpanded/FF12/Nalbina Fortress Town Ward</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Princess' Vision</label>
+    <defName>FFXII_031</defName>
+    <clipPath>MusicExpanded/FF12/The Princess' Vision</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Clash of Swords</label>
+    <defName>FFXII_032</defName>
+    <clipPath>MusicExpanded/FF12/Clash of Swords</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Victory Fanfare ~FFXII Version~</label>
+    <defName>FFXII_033</defName>
+    <clipPath>MusicExpanded/FF12/Victory Fanfare ~FFXII Version~</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Abyss ()</label>
+    <defName>FFXII_034</defName>
+    <clipPath>MusicExpanded/FF12/Abyss ()</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Dark Clouds (Imperial Version)</label>
+    <defName>FFXII_035</defName>
+    <clipPath>MusicExpanded/FF12/Dark Clouds (Imperial Version)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- A Promise with Balthier</label>
+    <defName>FFXII_036</defName>
+    <clipPath>MusicExpanded/FF12/A Promise with Balthier</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Game Over</label>
+    <defName>FFXII_037</defName>
+    <clipPath>MusicExpanded/FF12/Game Over</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Nalbina Fortress Underground Prison</label>
+    <defName>FFXII_038</defName>
+    <clipPath>MusicExpanded/FF12/Nalbina Fortress Underground Prison</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Barbarians</label>
+    <defName>FFXII_039</defName>
+    <clipPath>MusicExpanded/FF12/The Barbarians</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Battle Drum</label>
+    <defName>FFXII_040</defName>
+    <clipPath>MusicExpanded/FF12/Battle Drum</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Theme of the Empire</label>
+    <defName>FFXII_041</defName>
+    <clipPath>MusicExpanded/FF12/Theme of the Empire</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Chocobo FFXII Arrange Ver.1 ()</label>
+    <defName>FFXII_042</defName>
+    <clipPath>MusicExpanded/FF12/Chocobo FFXII Arrange Ver.1 ()</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Barheim Passage</label>
+    <defName>FFXII_043</defName>
+    <clipPath>MusicExpanded/FF12/The Barheim Passage</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Sorrow (Liberation Army Version)</label>
+    <defName>FFXII_044</defName>
+    <clipPath>MusicExpanded/FF12/Sorrow (Liberation Army Version)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Basch's Reminiscence</label>
+    <defName>FFXII_045</defName>
+    <clipPath>MusicExpanded/FF12/Basch's Reminiscence</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Coexistence (Liberation Army Version)</label>
+    <defName>FFXII_046</defName>
+    <clipPath>MusicExpanded/FF12/Coexistence (Liberation Army Version)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Skycity of Bhujerba</label>
+    <defName>FFXII_047</defName>
+    <clipPath>MusicExpanded/FF12/The Skycity of Bhujerba</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Secret of Nethicite</label>
+    <defName>FFXII_048</defName>
+    <clipPath>MusicExpanded/FF12/The Secret of Nethicite</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Dark Night (Imperial Version)</label>
+    <defName>FFXII_049</defName>
+    <clipPath>MusicExpanded/FF12/Dark Night (Imperial Version)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- A Speechless Battle</label>
+    <defName>FFXII_050</defName>
+    <clipPath>MusicExpanded/FF12/A Speechless Battle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Dreadnought Leviathan Bridge</label>
+    <defName>FFXII_051</defName>
+    <clipPath>MusicExpanded/FF12/The Dreadnought Leviathan Bridge</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Challenging the Empire</label>
+    <defName>FFXII_052</defName>
+    <clipPath>MusicExpanded/FF12/Challenging the Empire</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- State of Emergency</label>
+    <defName>FFXII_053</defName>
+    <clipPath>MusicExpanded/FF12/State of Emergency</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Upheaval (Imperial Version)</label>
+    <defName>FFXII_054</defName>
+    <clipPath>MusicExpanded/FF12/Upheaval (Imperial Version)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Tomb of Raithwall</label>
+    <defName>FFXII_055</defName>
+    <clipPath>MusicExpanded/FF12/The Tomb of Raithwall</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Sandsea</label>
+    <defName>FFXII_056</defName>
+    <clipPath>MusicExpanded/FF12/The Sandsea</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Esper Battle</label>
+    <defName>FFXII_057</defName>
+    <clipPath>MusicExpanded/FF12/Esper Battle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Sorrow (Imperial Version)</label>
+    <defName>FFXII_058</defName>
+    <clipPath>MusicExpanded/FF12/Sorrow (Imperial Version)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Seeking Power</label>
+    <defName>FFXII_059</defName>
+    <clipPath>MusicExpanded/FF12/Seeking Power</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Desperate Fight</label>
+    <defName>FFXII_060</defName>
+    <clipPath>MusicExpanded/FF12/Desperate Fight</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Jahara, Land of the Garif</label>
+    <defName>FFXII_061</defName>
+    <clipPath>MusicExpanded/FF12/Jahara, Land of the Garif</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Ozmone Plain</label>
+    <defName>FFXII_062</defName>
+    <clipPath>MusicExpanded/FF12/Ozmone Plain</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Golmore Jungle</label>
+    <defName>FFXII_063</defName>
+    <clipPath>MusicExpanded/FF12/The Golmore Jungle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Eruyt Village</label>
+    <defName>FFXII_064</defName>
+    <clipPath>MusicExpanded/FF12/Eruyt Village</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- You're Really a Child....</label>
+    <defName>FFXII_065</defName>
+    <clipPath>MusicExpanded/FF12/You're Really a Child....</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Chocobo ~FFXII Version~</label>
+    <defName>FFXII_066</defName>
+    <clipPath>MusicExpanded/FF12/Chocobo ~FFXII Version~</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- An Imminent Threat</label>
+    <defName>FFXII_067</defName>
+    <clipPath>MusicExpanded/FF12/An Imminent Threat</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Clash on the Big Bridge ~FFXII Version~</label>
+    <defName>FFXII_068</defName>
+    <clipPath>MusicExpanded/FF12/Clash on the Big Bridge ~FFXII Version~</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Abandoning Power</label>
+    <defName>FFXII_069</defName>
+    <clipPath>MusicExpanded/FF12/Abandoning Power</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Stillshrine of Miriam</label>
+    <defName>FFXII_070</defName>
+    <clipPath>MusicExpanded/FF12/The Stillshrine of Miriam</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Time for a Rest</label>
+    <defName>FFXII_071</defName>
+    <clipPath>MusicExpanded/FF12/Time for a Rest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- White Room</label>
+    <defName>FFXII_072</defName>
+    <clipPath>MusicExpanded/FF12/White Room</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Salikawood</label>
+    <defName>FFXII_073</defName>
+    <clipPath>MusicExpanded/FF12/The Salikawood</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Phon Coast</label>
+    <defName>FFXII_074</defName>
+    <clipPath>MusicExpanded/FF12/The Phon Coast</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Destiny</label>
+    <defName>FFXII_075</defName>
+    <clipPath>MusicExpanded/FF12/Destiny</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Sochen Cave Palace</label>
+    <defName>FFXII_076</defName>
+    <clipPath>MusicExpanded/FF12/The Sochen Cave Palace</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- A Moment's Rest</label>
+    <defName>FFXII_077</defName>
+    <clipPath>MusicExpanded/FF12/A Moment's Rest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Near the Water</label>
+    <defName>FFXII_078</defName>
+    <clipPath>MusicExpanded/FF12/Near the Water</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Mosphoran Highwaste</label>
+    <defName>FFXII_079</defName>
+    <clipPath>MusicExpanded/FF12/The Mosphoran Highwaste</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Cerobi Steppe</label>
+    <defName>FFXII_080</defName>
+    <clipPath>MusicExpanded/FF12/The Cerobi Steppe</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Esper</label>
+    <defName>FFXII_081</defName>
+    <clipPath>MusicExpanded/FF12/Esper</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Port of Balfonheim</label>
+    <defName>FFXII_082</defName>
+    <clipPath>MusicExpanded/FF12/The Port of Balfonheim</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Nap</label>
+    <defName>FFXII_083</defName>
+    <clipPath>MusicExpanded/FF12/Nap</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Zertinan Caverns</label>
+    <defName>FFXII_084</defName>
+    <clipPath>MusicExpanded/FF12/The Zertinan Caverns</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- A Land of Memories</label>
+    <defName>FFXII_085</defName>
+    <clipPath>MusicExpanded/FF12/A Land of Memories</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Forgotten Capital</label>
+    <defName>FFXII_086</defName>
+    <clipPath>MusicExpanded/FF12/The Forgotten Capital</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Feywood</label>
+    <defName>FFXII_087</defName>
+    <clipPath>MusicExpanded/FF12/The Feywood</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Ashe's Theme</label>
+    <defName>FFXII_088</defName>
+    <clipPath>MusicExpanded/FF12/Ashe's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Giruvegan's Mystery</label>
+    <defName>FFXII_089</defName>
+    <clipPath>MusicExpanded/FF12/Giruvegan's Mystery</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- To the Place of the Gods</label>
+    <defName>FFXII_090</defName>
+    <clipPath>MusicExpanded/FF12/To the Place of the Gods</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Beginning of the End</label>
+    <defName>FFXII_091</defName>
+    <clipPath>MusicExpanded/FF12/The Beginning of the End</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- To the Peak</label>
+    <defName>FFXII_092</defName>
+    <clipPath>MusicExpanded/FF12/To the Peak</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Sky Fortress Bahamut</label>
+    <defName>FFXII_093</defName>
+    <clipPath>MusicExpanded/FF12/The Sky Fortress Bahamut</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Shaking Bahamut</label>
+    <defName>FFXII_094</defName>
+    <clipPath>MusicExpanded/FF12/Shaking Bahamut</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The Battle for Freedom</label>
+    <defName>FFXII_095</defName>
+    <clipPath>MusicExpanded/FF12/The Battle for Freedom</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- The End of the Battle</label>
+    <defName>FFXII_096</defName>
+    <clipPath>MusicExpanded/FF12/The End of the Battle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Ending Movie</label>
+    <defName>FFXII_097</defName>
+    <clipPath>MusicExpanded/FF12/Ending Movie</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Kiss Me Good-Bye -featured in FINAL FANTASY XII-</label>
+    <defName>FFXII_098</defName>
+    <clipPath>MusicExpanded/FF12/Kiss Me Good-Bye -featured in FINAL FANTASY XII-</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Symphonic Poem Hope ~FINAL FANTASY XII PV ver.~</label>
+    <defName>FFXII_099</defName>
+    <clipPath>MusicExpanded/FF12/Symphonic Poem Hope ~FINAL FANTASY XII PV ver.~</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <label>Final Fantasy XII- Theme of FINAL FANTASY XII (Presentation Version) ()</label>
+    <defName>FFXII_100</defName>
+    <clipPath>MusicExpanded/FF12/Theme of FINAL FANTASY XII (Presentation Version) ()</clipPath>
+  </MusicExpanded.TrackDef>
+</Defs>

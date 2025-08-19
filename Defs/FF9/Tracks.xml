@@ -1,0 +1,583 @@
+<?xml version="1.0" ?>
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_001</defName>
+    <label>Final Fantasy 9 - The Place I'll Return to Someday</label>
+    <clipPath>MusicExpanded/FF9/The Place I'll Return to Someday</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_002</defName>
+    <label>Final Fantasy 9 - Memories Erased in the Storm</label>
+    <clipPath>MusicExpanded/FF9/Memories Erased in the Storm</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_003</defName>
+    <label>Final Fantasy 9 - Battle Strategy Conference</label>
+    <clipPath>MusicExpanded/FF9/Battle Strategy Conference</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_004</defName>
+    <label>Final Fantasy 9 - The Skies of Alexandra</label>
+    <clipPath>MusicExpanded/FF9/The Skies of Alexandra</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_005</defName>
+    <label>Final Fantasy 9 - Vivi's Theme</label>
+    <clipPath>MusicExpanded/FF9/Vivi's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_006</defName>
+    <label>Final Fantasy 9 - Feel My Blade</label>
+    <clipPath>MusicExpanded/FF9/Feel My Blade</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_007</defName>
+    <label>Final Fantasy 9 - Vamo' Alla Flamenco</label>
+    <clipPath>MusicExpanded/FF9/Vamo' Alla Flamenco</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_008</defName>
+    <label>Final Fantasy 9 - Search for the Princess</label>
+    <clipPath>MusicExpanded/FF9/Search for the Princess</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_009</defName>
+    <label>Final Fantasy 9 - Jesters of the Moon</label>
+    <clipPath>MusicExpanded/FF9/Jesters of the Moon</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_010</defName>
+    <label>Final Fantasy 9 - Steiner's Theme</label>
+    <clipPath>MusicExpanded/FF9/Steiner's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_011</defName>
+    <label>Final Fantasy 9 - Prima Vista Band</label>
+    <clipPath>MusicExpanded/FF9/Prima Vista Band</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_012</defName>
+    <label>Final Fantasy 9 - Stolen Eyes</label>
+    <clipPath>MusicExpanded/FF9/Stolen Eyes</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_013</defName>
+    <label>Final Fantasy 9 - Tonight</label>
+    <clipPath>MusicExpanded/FF9/Tonight</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_014</defName>
+    <label>Final Fantasy 9 - Your Warmth</label>
+    <clipPath>MusicExpanded/FF9/Your Warmth</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_015</defName>
+    <label>Final Fantasy 9 - Mistaken Love</label>
+    <clipPath>MusicExpanded/FF9/Mistaken Love</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_016</defName>
+    <label>Final Fantasy 9 - Queen of the Abyss</label>
+    <clipPath>MusicExpanded/FF9/Queen of the Abyss</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_017</defName>
+    <label>Final Fantasy 9 - Awakening the Forest</label>
+    <clipPath>MusicExpanded/FF9/Awakening the Forest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_018</defName>
+    <label>Final Fantasy 9 - Battle</label>
+    <clipPath>MusicExpanded/FF9/Battle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_019</defName>
+    <label>Final Fantasy 9 - Fanfare</label>
+    <clipPath>MusicExpanded/FF9/Fanfare</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_020</defName>
+    <label>Final Fantasy 9 - Memories of That Day</label>
+    <clipPath>MusicExpanded/FF9/Memories of That Day</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_021</defName>
+    <label>Final Fantasy 9 - Boss Battle</label>
+    <clipPath>MusicExpanded/FF9/Boss Battle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_022</defName>
+    <label>Final Fantasy 9 - Game Over</label>
+    <clipPath>MusicExpanded/FF9/Game Over</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_023</defName>
+    <label>Final Fantasy 9 - Run!</label>
+    <clipPath>MusicExpanded/FF9/Run!</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_024</defName>
+    <label>Final Fantasy 9 - Goodnight</label>
+    <clipPath>MusicExpanded/FF9/Goodnight</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_025</defName>
+    <label>Final Fantasy 9 - Crossing Those Hills</label>
+    <clipPath>MusicExpanded/FF9/Crossing Those Hills</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_026</defName>
+    <label>Final Fantasy 9 - Ice Caverns</label>
+    <clipPath>MusicExpanded/FF9/Ice Caverns</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_027</defName>
+    <label>Final Fantasy 9 - Frontier Village Dali</label>
+    <clipPath>MusicExpanded/FF9/Frontier Village Dali</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_028</defName>
+    <label>Final Fantasy 9 - Far Away in the Twilight</label>
+    <clipPath>MusicExpanded/FF9/Far Away in the Twilight</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_029</defName>
+    <label>Final Fantasy 9 - Steiner's Stealth</label>
+    <clipPath>MusicExpanded/FF9/Steiner's Stealth</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_030</defName>
+    <label>Final Fantasy 9 - Limited Time</label>
+    <clipPath>MusicExpanded/FF9/Limited Time</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_031</defName>
+    <label>Final Fantasy 9 - Zidane's Theme</label>
+    <clipPath>MusicExpanded/FF9/Zidane's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_032</defName>
+    <label>Final Fantasy 9 - Black Waltz</label>
+    <clipPath>MusicExpanded/FF9/Black Waltz</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_033</defName>
+    <label>Final Fantasy 9 - Cid's Theme</label>
+    <clipPath>MusicExpanded/FF9/Cid's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_034</defName>
+    <label>Final Fantasy 9 - One Problem Settled</label>
+    <clipPath>MusicExpanded/FF9/One Problem Settled</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_035</defName>
+    <label>Final Fantasy 9 - Lindblum</label>
+    <clipPath>MusicExpanded/FF9/Lindblum</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_036</defName>
+    <label>Final Fantasy 9 - a Song of Memories</label>
+    <clipPath>MusicExpanded/FF9/a Song of Memories</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_037</defName>
+    <label>Final Fantasy 9 - b Song of Memories (Alternate)</label>
+    <clipPath>MusicExpanded/FF9/b Song of Memories (Alternate)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_038</defName>
+    <label>Final Fantasy 9 - c Garnet's Song 1</label>
+    <clipPath>MusicExpanded/FF9/c Garnet's Song 1</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_039</defName>
+    <label>Final Fantasy 9 - d Garnet's Song 2</label>
+    <clipPath>MusicExpanded/FF9/d Garnet's Song 2</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_040</defName>
+    <label>Final Fantasy 9 - Hunter's Chance</label>
+    <clipPath>MusicExpanded/FF9/Hunter's Chance</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_041</defName>
+    <label>Final Fantasy 9 - Qu's Marsh</label>
+    <clipPath>MusicExpanded/FF9/Qu's Marsh</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_042</defName>
+    <label>Final Fantasy 9 - Quina's Theme</label>
+    <clipPath>MusicExpanded/FF9/Quina's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_043</defName>
+    <label>Final Fantasy 9 - Aloha de Chocobo</label>
+    <clipPath>MusicExpanded/FF9/Aloha de Chocobo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_044</defName>
+    <label>Final Fantasy 9 - Ukulele de Chocobo</label>
+    <clipPath>MusicExpanded/FF9/Ukulele de Chocobo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_045</defName>
+    <label>Final Fantasy 9 - Freya's Theme</label>
+    <clipPath>MusicExpanded/FF9/Freya's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_046</defName>
+    <label>Final Fantasy 9 - At the South Gate Border</label>
+    <clipPath>MusicExpanded/FF9/At the South Gate Border</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_047</defName>
+    <label>Final Fantasy 9 - Fairy Battle</label>
+    <clipPath>MusicExpanded/FF9/Fairy Battle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_048</defName>
+    <label>Final Fantasy 9 - Kingdom of Burmecia</label>
+    <clipPath>MusicExpanded/FF9/Kingdom of Burmecia</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_049</defName>
+    <label>Final Fantasy 9 - Forgotten Face</label>
+    <clipPath>MusicExpanded/FF9/Forgotten Face</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_050</defName>
+    <label>Final Fantasy 9 - Kuja's Theme</label>
+    <clipPath>MusicExpanded/FF9/Kuja's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_051</defName>
+    <label>Final Fantasy 9 - The Sword of Doubt</label>
+    <clipPath>MusicExpanded/FF9/The Sword of Doubt</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_052</defName>
+    <label>Final Fantasy 9 - The City that Never Sleeps</label>
+    <clipPath>MusicExpanded/FF9/The City that Never Sleeps</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_053</defName>
+    <label>Final Fantasy 9 - Theme of Tantalus</label>
+    <clipPath>MusicExpanded/FF9/Theme of Tantalus</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_054</defName>
+    <label>Final Fantasy 9 - Immoral Melody</label>
+    <clipPath>MusicExpanded/FF9/Immoral Melody</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_055</defName>
+    <label>Final Fantasy 9 - Garnet's Theme</label>
+    <clipPath>MusicExpanded/FF9/Garnet's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_056</defName>
+    <label>Final Fantasy 9 - Gargan Roo</label>
+    <clipPath>MusicExpanded/FF9/Gargan Roo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_057</defName>
+    <label>Final Fantasy 9 - Cleyra's Trunk</label>
+    <clipPath>MusicExpanded/FF9/Cleyra's Trunk</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_058</defName>
+    <label>Final Fantasy 9 - Cleyra Settlement</label>
+    <clipPath>MusicExpanded/FF9/Cleyra Settlement</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_059</defName>
+    <label>Final Fantasy 9 - Eternal Harvest</label>
+    <clipPath>MusicExpanded/FF9/Eternal Harvest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_060</defName>
+    <label>Final Fantasy 9 - Grieve for the Skies</label>
+    <clipPath>MusicExpanded/FF9/Grieve for the Skies</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_061</defName>
+    <label>Final Fantasy 9 - Extraction</label>
+    <clipPath>MusicExpanded/FF9/Extraction</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_062</defName>
+    <label>Final Fantasy 9 - Ambush Attack</label>
+    <clipPath>MusicExpanded/FF9/Ambush Attack</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_063</defName>
+    <label>Final Fantasy 9 - Rose of May</label>
+    <clipPath>MusicExpanded/FF9/Rose of May</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_064</defName>
+    <label>Final Fantasy 9 - Fossil Roo</label>
+    <clipPath>MusicExpanded/FF9/Fossil Roo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_065</defName>
+    <label>Final Fantasy 9 - Mountain Pass</label>
+    <clipPath>MusicExpanded/FF9/Mountain Pass</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_066</defName>
+    <label>Final Fantasy 9 - Black Mage's Village</label>
+    <clipPath>MusicExpanded/FF9/Black Mage's Village</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_067</defName>
+    <label>Final Fantasy 9 - Unfathomed Reminiscence</label>
+    <clipPath>MusicExpanded/FF9/Unfathomed Reminiscence</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_068</defName>
+    <label>Final Fantasy 9 - Ceremony for the Gods</label>
+    <clipPath>MusicExpanded/FF9/Ceremony for the Gods</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_069</defName>
+    <label>Final Fantasy 9 - Eiko's Theme</label>
+    <clipPath>MusicExpanded/FF9/Eiko's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_070</defName>
+    <label>Final Fantasy 9 - Ruins of Madain Sari</label>
+    <clipPath>MusicExpanded/FF9/Ruins of Madain Sari</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_071</defName>
+    <label>Final Fantasy 9 - Wall of Sacred Beasts</label>
+    <clipPath>MusicExpanded/FF9/Wall of Sacred Beasts</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_072</defName>
+    <label>Final Fantasy 9 - Iifa Tree</label>
+    <clipPath>MusicExpanded/FF9/Iifa Tree</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_073</defName>
+    <label>Final Fantasy 9 - Amarant's Theme</label>
+    <clipPath>MusicExpanded/FF9/Amarant's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_074</defName>
+    <label>Final Fantasy 9 - Footsteps of Desire</label>
+    <clipPath>MusicExpanded/FF9/Footsteps of Desire</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_075</defName>
+    <label>Final Fantasy 9 - We Are Thieves!</label>
+    <clipPath>MusicExpanded/FF9/We Are Thieves!</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_076</defName>
+    <label>Final Fantasy 9 - Slew of Love Letters</label>
+    <clipPath>MusicExpanded/FF9/Slew of Love Letters</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_077</defName>
+    <label>Final Fantasy 9 - Moogle's Theme</label>
+    <clipPath>MusicExpanded/FF9/Moogle's Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_078</defName>
+    <label>Final Fantasy 9 - Protecting My Devotion</label>
+    <clipPath>MusicExpanded/FF9/Protecting My Devotion</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_079</defName>
+    <label>Final Fantasy 9 - The Chosen Summoner</label>
+    <clipPath>MusicExpanded/FF9/The Chosen Summoner</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_080</defName>
+    <label>Final Fantasy 9 - Keeper of Time</label>
+    <clipPath>MusicExpanded/FF9/Keeper of Time</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_081</defName>
+    <label>Final Fantasy 9 - Oeilvert</label>
+    <clipPath>MusicExpanded/FF9/Oeilvert</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_082</defName>
+    <label>Final Fantasy 9 - Tetra Master</label>
+    <clipPath>MusicExpanded/FF9/Tetra Master</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_083</defName>
+    <label>Final Fantasy 9 - A Transient Past</label>
+    <clipPath>MusicExpanded/FF9/A Transient Past</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_084</defName>
+    <label>Final Fantasy 9 - The Sneaky Frog and the Scoundrel</label>
+    <clipPath>MusicExpanded/FF9/The Sneaky Frog and the Scoundrel</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_085</defName>
+    <label>Final Fantasy 9 - Esto Gaza</label>
+    <clipPath>MusicExpanded/FF9/Esto Gaza</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_086</defName>
+    <label>Final Fantasy 9 - Gulug Volcano</label>
+    <clipPath>MusicExpanded/FF9/Gulug Volcano</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_087</defName>
+    <label>Final Fantasy 9 - The Heart of Melting Magic</label>
+    <clipPath>MusicExpanded/FF9/The Heart of Melting Magic</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_088</defName>
+    <label>Final Fantasy 9 - The Airship, Hilda Garde</label>
+    <clipPath>MusicExpanded/FF9/The Airship, Hilda Garde</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_089</defName>
+    <label>Final Fantasy 9 - Secret Library Daguerreo</label>
+    <clipPath>MusicExpanded/FF9/Secret Library Daguerreo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_090</defName>
+    <label>Final Fantasy 9 - Ipsen's Castle</label>
+    <clipPath>MusicExpanded/FF9/Ipsen's Castle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_091</defName>
+    <label>Final Fantasy 9 - The Four Medallions</label>
+    <clipPath>MusicExpanded/FF9/The Four Medallions</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_092</defName>
+    <label>Final Fantasy 9 - Successive Battles</label>
+    <clipPath>MusicExpanded/FF9/Successive Battles</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_093</defName>
+    <label>Final Fantasy 9 - Terra</label>
+    <clipPath>MusicExpanded/FF9/Terra</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_094</defName>
+    <label>Final Fantasy 9 - Soulless Village</label>
+    <clipPath>MusicExpanded/FF9/Soulless Village</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_095</defName>
+    <label>Final Fantasy 9 - The Castle Frozen in Time</label>
+    <clipPath>MusicExpanded/FF9/The Castle Frozen in Time</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_096</defName>
+    <label>Final Fantasy 9 - You're Not Alone!</label>
+    <clipPath>MusicExpanded/FF9/You're Not Alone!</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_097</defName>
+    <label>Final Fantasy 9 - Dissipating Sorrow</label>
+    <clipPath>MusicExpanded/FF9/Dissipating Sorrow</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_098</defName>
+    <label>Final Fantasy 9 - Rebirth of the Evil Mist</label>
+    <clipPath>MusicExpanded/FF9/Rebirth of the Evil Mist</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_099</defName>
+    <label>Final Fantasy 9 - Assault of the White Dragons</label>
+    <clipPath>MusicExpanded/FF9/Assault of the White Dragons</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_100</defName>
+    <label>Final Fantasy 9 - Place of Memory</label>
+    <clipPath>MusicExpanded/FF9/Place of Memory</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_101</defName>
+    <label>Final Fantasy 9 - Crystal World</label>
+    <clipPath>MusicExpanded/FF9/Crystal World</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_102</defName>
+    <label>Final Fantasy 9 - Dark Messenger</label>
+    <clipPath>MusicExpanded/FF9/Dark Messenger</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_103</defName>
+    <label>Final Fantasy 9 - Final Battle</label>
+    <clipPath>MusicExpanded/FF9/Final Battle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_104</defName>
+    <label>Final Fantasy 9 - Bittersweet Romance</label>
+    <clipPath>MusicExpanded/FF9/Bittersweet Romance</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_105</defName>
+    <label>Final Fantasy 9 - Hidden Lips</label>
+    <clipPath>MusicExpanded/FF9/Hidden Lips</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_106</defName>
+    <label>Final Fantasy 9 - I Want to Be Your Canary</label>
+    <clipPath>MusicExpanded/FF9/I Want to Be Your Canary</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_107</defName>
+    <label>Final Fantasy 9 - Two Hearts Not Captured</label>
+    <clipPath>MusicExpanded/FF9/Two Hearts Not Captured</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_108</defName>
+    <label>Final Fantasy 9 - Towards that Gate</label>
+    <clipPath>MusicExpanded/FF9/Towards that Gate</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_109</defName>
+    <label>Final Fantasy 9 - Melodies of Life - Final Fantasy</label>
+    <clipPath>MusicExpanded/FF9/Melodies of Life - Final Fantasy</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_110</defName>
+    <label>Final Fantasy 9 - Prelude</label>
+    <clipPath>MusicExpanded/FF9/Prelude</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_111</defName>
+    <label>Final Fantasy 9 - CCJC TVCM 15' (Coca-Cola Commercial)</label>
+    <clipPath>MusicExpanded/FF9/CCJC TVCM 15' (Coca-Cola Commercial)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_112</defName>
+    <label>Final Fantasy 9 - CCJC TVCM 30' (Coca-Cola Commercial)</label>
+    <clipPath>MusicExpanded/FF9/CCJC TVCM 30' (Coca-Cola Commercial)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_113</defName>
+    <label>Final Fantasy 9 - Melodies of Life (The Layers of Harmony)</label>
+    <clipPath>MusicExpanded/FF9/Melodies of Life (The Layers of Harmony)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_114</defName>
+    <label>Final Fantasy 9 - Shinra March (Millennium Version)</label>
+    <clipPath>MusicExpanded/FF9/Shinra March (Millennium Version)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_115</defName>
+    <label>Final Fantasy 9 - Doga and Une</label>
+    <clipPath>MusicExpanded/FF9/Doga and Une</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF9_116</defName>
+    <label>Final Fantasy 9 - Kuja's Theme (Millennium Version)</label>
+    <clipPath>MusicExpanded/FF9/Kuja's Theme (Millennium Version)</clipPath>
+  </MusicExpanded.TrackDef>
+</Defs>

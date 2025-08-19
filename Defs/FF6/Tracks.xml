@@ -1,0 +1,459 @@
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_001</defName>
+    <label>Final Fantasy 6- 999 Unknown 1e</label>
+    <clipPath>MusicExpanded/FF6/999 Unknown 1e</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_002</defName>
+    <label>Final Fantasy 6- 999 The Empire Gestahl (alternate6)</label>
+    <clipPath>MusicExpanded/FF6/999 The Empire Gestahl (alternate6)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_003</defName>
+    <label>Final Fantasy 6- 999 The Empire Gestahl (alternate5)</label>
+    <clipPath>MusicExpanded/FF6/999 The Empire Gestahl (alternate5)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_004</defName>
+    <label>Final Fantasy 6- 999 The Empire Gestahl (alternate4)</label>
+    <clipPath>MusicExpanded/FF6/999 The Empire Gestahl (alternate4)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_005</defName>
+    <label>Final Fantasy 6- 999 The Empire Gestahl (alternate3)</label>
+    <clipPath>MusicExpanded/FF6/999 The Empire Gestahl (alternate3)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_006</defName>
+    <label>Final Fantasy 6- 999 The Empire Gestahl (alternate2)</label>
+    <clipPath>MusicExpanded/FF6/999 The Empire Gestahl (alternate2)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_007</defName>
+    <label>Final Fantasy 6- 999 The Empire Gestahl (alternate1)</label>
+    <clipPath>MusicExpanded/FF6/999 The Empire Gestahl (alternate1)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_008</defName>
+    <label>Final Fantasy 6- 316 The Prelude</label>
+    <clipPath>MusicExpanded/FF6/316 The Prelude</clipPath>
+    <cue>MainMenu</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_009</defName>
+    <label>Final Fantasy 6- SLPM-86198_OPERA_0000408c</label>
+    <clipPath>MusicExpanded/FF6/SLPM-86198_OPERA_0000408c</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_010</defName>
+    <label>Final Fantasy 6- SLPM-86198_OPEN_0000408c</label>
+    <clipPath>MusicExpanded/FF6/SLPM-86198_OPEN_0000408c</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_011</defName>
+    <label>Final Fantasy 6- SLPM-86198_F6XBG00_0000096c</label>
+    <clipPath>MusicExpanded/FF6/SLPM-86198_F6XBG00_0000096c</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_012</defName>
+    <label>Final Fantasy 6- SLPM-86198_END_0000408c</label>
+    <clipPath>MusicExpanded/FF6/SLPM-86198_END_0000408c</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_013</defName>
+    <label>Final Fantasy 6- 111 Shadow</label>
+    <clipPath>MusicExpanded/FF6/111 Shadow</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_014</defName>
+    <label>Final Fantasy 6- 110 Returners</label>
+    <clipPath>MusicExpanded/FF6/110 Returners</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_015</defName>
+    <label>Final Fantasy 6- 109 Mt. Koltz</label>
+    <clipPath>MusicExpanded/FF6/109 Mt. Koltz</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_016</defName>
+    <label>Final Fantasy 6- 108 Kefka</label>
+    <clipPath>MusicExpanded/FF6/108 Kefka</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_017</defName>
+    <label>Final Fantasy 6- 107 Edgar and Sabin</label>
+    <clipPath>MusicExpanded/FF6/107 Edgar and Sabin</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_018</defName>
+    <label>Final Fantasy 6- 106 Fanfare</label>
+    <clipPath>MusicExpanded/FF6/106 Fanfare</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_019</defName>
+    <label>Final Fantasy 6- 105 Battle Theme</label>
+    <clipPath>MusicExpanded/FF6/105 Battle Theme</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_020</defName>
+    <label>Final Fantasy 6- 104 Locke</label>
+    <clipPath>MusicExpanded/FF6/104 Locke</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_021</defName>
+    <label>Final Fantasy 6- 103 Awakening</label>
+    <clipPath>MusicExpanded/FF6/103 Awakening</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_022</defName>
+    <label>Final Fantasy 6- 102 The Mines of Narshe</label>
+    <clipPath>MusicExpanded/FF6/102 The Mines of Narshe</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_023</defName>
+    <label>Final Fantasy 6- 101c Opening Theme (part 3)</label>
+    <clipPath>MusicExpanded/FF6/101c Opening Theme (part 3)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_024</defName>
+    <label>Final Fantasy 6- 101b Opening Theme (part 2)</label>
+    <clipPath>MusicExpanded/FF6/101b Opening Theme (part 2)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_025</defName>
+    <label>Final Fantasy 6- 101a Opening Theme (part 1)</label>
+    <clipPath>MusicExpanded/FF6/101a Opening Theme (part 1)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_026</defName>
+    <label>Final Fantasy 6- 207b Overture (part 2)</label>
+    <clipPath>MusicExpanded/FF6/207b Overture (part 2)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_027</defName>
+    <label>Final Fantasy 6- 207a Overture (part 1)</label>
+    <clipPath>MusicExpanded/FF6/207a Overture (part 1)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_028</defName>
+    <label>Final Fantasy 6- 206 Spinach Rag</label>
+    <clipPath>MusicExpanded/FF6/206 Spinach Rag</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_029</defName>
+    <label>Final Fantasy 6- 205 Slam Shuffle</label>
+    <clipPath>MusicExpanded/FF6/205 Slam Shuffle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_030</defName>
+    <label>Final Fantasy 6- 204 Forever Rachel!</label>
+    <clipPath>MusicExpanded/FF6/204 Forever Rachel!</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_031</defName>
+    <label>Final Fantasy 6- 203 Techno de Chocobo</label>
+    <clipPath>MusicExpanded/FF6/203 Techno de Chocobo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_032</defName>
+    <label>Final Fantasy 6- 202 Coin Song</label>
+    <clipPath>MusicExpanded/FF6/202 Coin Song</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_033</defName>
+    <label>Final Fantasy 6- 201 Terra</label>
+    <clipPath>MusicExpanded/FF6/201 Terra</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_034</defName>
+    <label>Final Fantasy 6- 125 Metamorphasis</label>
+    <clipPath>MusicExpanded/FF6/125 Metamorphasis</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_035</defName>
+    <label>Final Fantasy 6- 124 The Decisive Battle</label>
+    <clipPath>MusicExpanded/FF6/124 The Decisive Battle</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_036</defName>
+    <label>Final Fantasy 6- 123 Save Them!</label>
+    <clipPath>MusicExpanded/FF6/123 Save Them!</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_037</defName>
+    <label>Final Fantasy 6- 122 Celes</label>
+    <clipPath>MusicExpanded/FF6/122 Celes</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_038</defName>
+    <label>Final Fantasy 6- 121 Under Martial Law</label>
+    <clipPath>MusicExpanded/FF6/121 Under Martial Law</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_039</defName>
+    <label>Final Fantasy 6- 120 Kids Run Through the City</label>
+    <clipPath>MusicExpanded/FF6/120 Kids Run Through the City</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_040</defName>
+    <label>Final Fantasy 6- 119 The Serpent Trench</label>
+    <clipPath>MusicExpanded/FF6/119 The Serpent Trench</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_041</defName>
+    <label>Final Fantasy 6- 118 Gau</label>
+    <clipPath>MusicExpanded/FF6/118 Gau</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_042</defName>
+    <label>Final Fantasy 6- 117 Wild West</label>
+    <clipPath>MusicExpanded/FF6/117 Wild West</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_043</defName>
+    <label>Final Fantasy 6- 115 The Phantom Forest</label>
+    <clipPath>MusicExpanded/FF6/115 The Phantom Forest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_044</defName>
+    <label>Final Fantasy 6- 114 The Unforgiven</label>
+    <clipPath>MusicExpanded/FF6/114 The Unforgiven</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_045</defName>
+    <label>Final Fantasy 6- 113 Cyan</label>
+    <clipPath>MusicExpanded/FF6/113 Cyan</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_046</defName>
+    <label>Final Fantasy 6- 112 Troops March on</label>
+    <clipPath>MusicExpanded/FF6/112 Troops March on</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_047</defName>
+    <label>Final Fantasy 6- 304 Rest in Peace</label>
+    <clipPath>MusicExpanded/FF6/304 Rest in Peace</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_048</defName>
+    <label>Final Fantasy 6- 303 The Fierce Battle</label>
+    <clipPath>MusicExpanded/FF6/303 The Fierce Battle</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_049</defName>
+    <label>Final Fantasy 6- 302 Catastrophe</label>
+    <clipPath>MusicExpanded/FF6/302 Catastrophe</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_050</defName>
+    <label>Final Fantasy 6- 301 New Continent</label>
+    <clipPath>MusicExpanded/FF6/301 New Continent</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_051</defName>
+    <label>Final Fantasy 6- 220 Another World of Beasts</label>
+    <clipPath>MusicExpanded/FF6/220 Another World of Beasts</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_052</defName>
+    <label>Final Fantasy 6- 219 Relm</label>
+    <clipPath>MusicExpanded/FF6/219 Relm</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_053</defName>
+    <label>Final Fantasy 6- 218 Strago</label>
+    <clipPath>MusicExpanded/FF6/218 Strago</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_054</defName>
+    <label>Final Fantasy 6- 217 Mog</label>
+    <clipPath>MusicExpanded/FF6/217 Mog</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_055</defName>
+    <label>Final Fantasy 6- 216 ____</label>
+    <clipPath>MusicExpanded/FF6/216 ____</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_056</defName>
+    <label>Final Fantasy 6- 215 Blackjack</label>
+    <clipPath>MusicExpanded/FF6/215 Blackjack</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_057</defName>
+    <label>Final Fantasy 6- 214 Devil's Lab</label>
+    <clipPath>MusicExpanded/FF6/214 Devil's Lab</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_058</defName>
+    <label>Final Fantasy 6- 213 The Empire Gestahl</label>
+    <clipPath>MusicExpanded/FF6/213 The Empire Gestahl</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_059</defName>
+    <label>Final Fantasy 6- 212 Johnny C. Bad</label>
+    <clipPath>MusicExpanded/FF6/212 Johnny C. Bad</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_060</defName>
+    <label>Final Fantasy 6- 211 Setzer</label>
+    <clipPath>MusicExpanded/FF6/211 Setzer</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_061</defName>
+    <label>Final Fantasy 6- 210 Grand Finale</label>
+    <clipPath>MusicExpanded/FF6/210 Grand Finale</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_062</defName>
+    <label>Final Fantasy 6- 209d Duel (part 3)</label>
+    <clipPath>MusicExpanded/FF6/209d Duel (part 3)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_063</defName>
+    <label>Final Fantasy 6- 209c Duel (part 2)</label>
+    <clipPath>MusicExpanded/FF6/209c Duel (part 2)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_064</defName>
+    <label>Final Fantasy 6- 209b Duel (part 1)</label>
+    <clipPath>MusicExpanded/FF6/209b Duel (part 1)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_065</defName>
+    <label>Final Fantasy 6- 209a The Wedding Waltz</label>
+    <clipPath>MusicExpanded/FF6/209a The Wedding Waltz</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_066</defName>
+    <label>Final Fantasy 6- 208 Aria de Mezzo Carattere</label>
+    <clipPath>MusicExpanded/FF6/208 Aria de Mezzo Carattere</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_067</defName>
+    <label>Final Fantasy 6- 207c Overture (part 3)</label>
+    <clipPath>MusicExpanded/FF6/207c Overture (part 3)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_068</defName>
+    <label>Final Fantasy 6- 315b Ending Theme (part 2)</label>
+    <clipPath>MusicExpanded/FF6/315b Ending Theme (part 2)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_069</defName>
+    <label>Final Fantasy 6- 315a Ending Theme (part 1)</label>
+    <clipPath>MusicExpanded/FF6/315a Ending Theme (part 1)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_070</defName>
+    <label>Final Fantasy 6- 314e Dancing Mad (part 5)</label>
+    <clipPath>MusicExpanded/FF6/314e Dancing Mad (part 5)</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_071</defName>
+    <label>Final Fantasy 6- 314d Dancing Mad (part 4)</label>
+    <clipPath>MusicExpanded/FF6/314d Dancing Mad (part 4)</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_072</defName>
+    <label>Final Fantasy 6- 314a Dancing Mad (part 1)</label>
+    <clipPath>MusicExpanded/FF6/314a Dancing Mad (part 1)</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_073</defName>
+    <label>Final Fantasy 6- 313 Last Dungeon</label>
+    <clipPath>MusicExpanded/FF6/313 Last Dungeon</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_074</defName>
+    <label>Final Fantasy 6- 312 Fanatics</label>
+    <clipPath>MusicExpanded/FF6/312 Fanatics</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_075</defName>
+    <label>Final Fantasy 6- 311 Umaro</label>
+    <clipPath>MusicExpanded/FF6/311 Umaro</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_076</defName>
+    <label>Final Fantasy 6- 310 The Magic House</label>
+    <clipPath>MusicExpanded/FF6/310 The Magic House</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_077</defName>
+    <label>Final Fantasy 6- 309 Epitaph</label>
+    <clipPath>MusicExpanded/FF6/309 Epitaph</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_078</defName>
+    <label>Final Fantasy 6- 308 Gogo</label>
+    <clipPath>MusicExpanded/FF6/308 Gogo</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_079</defName>
+    <label>Final Fantasy 6- 307 Searching for Friends</label>
+    <clipPath>MusicExpanded/FF6/307 Searching for Friends</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_080</defName>
+    <label>Final Fantasy 6- 306 The Day After</label>
+    <clipPath>MusicExpanded/FF6/306 The Day After</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_081</defName>
+    <label>Final Fantasy 6- 305 Dark World</label>
+    <clipPath>MusicExpanded/FF6/305 Dark World</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_082</defName>
+    <label>Final Fantasy 6- 999 Unknown 49</label>
+    <clipPath>MusicExpanded/FF6/999 Unknown 49</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_083</defName>
+    <label>Final Fantasy 6- 999 Unknown 48</label>
+    <clipPath>MusicExpanded/FF6/999 Unknown 48</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_084</defName>
+    <label>Final Fantasy 6- 999 Unknown 40</label>
+    <clipPath>MusicExpanded/FF6/999 Unknown 40</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_085</defName>
+    <label>Final Fantasy 6- 999 Unknown 39</label>
+    <clipPath>MusicExpanded/FF6/999 Unknown 39</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_086</defName>
+    <label>Final Fantasy 6- 999 Unknown 20</label>
+    <clipPath>MusicExpanded/FF6/999 Unknown 20</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_087</defName>
+    <label>Final Fantasy 6- 999 Unknown 4a</label>
+    <clipPath>MusicExpanded/FF6/999 Unknown 4a</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_088</defName>
+    <label>Final Fantasy 6- 999 Unknown 3f</label>
+    <clipPath>MusicExpanded/FF6/999 Unknown 3f</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FF6_089</defName>
+    <label>Final Fantasy 6- 999 Unknown 3a</label>
+    <clipPath>MusicExpanded/FF6/999 Unknown 3a</clipPath>
+  </MusicExpanded.TrackDef>
+</Defs>

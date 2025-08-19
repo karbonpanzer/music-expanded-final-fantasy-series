@@ -1,0 +1,17 @@
+<Defs>
+    <SoundDef>
+        <defName>ME_FF7_Quest_Completed</defName>
+        <modExtensions><li Class="MusicExpanded.ModExtension.ReplacesSounds"><sounds><li>Quest_Succeded</li></sounds></li></modExtensions>
+        <subSounds>
+            <li>
+                <onCamera>True</onCamera>      
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>MusicExpanded/FF7/FF7- Fanfare</clipPath>
+                    </li>
+                </grains>      
+                <volumeRange>100~100</volumeRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+</Defs>

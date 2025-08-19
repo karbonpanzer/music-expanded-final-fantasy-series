@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_001</defName>
+    <label>Final Fantasy Tactics – A Chapel</label>
+    <clipPath>MusicExpanded/FFT/A_Chapel</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_002</defName>
+    <label>Final Fantasy Tactics – Algus</label>
+    <clipPath>MusicExpanded/FFT/Algus</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_003</defName>
+    <label>Final Fantasy Tactics – Alma's Theme</label>
+    <clipPath>MusicExpanded/FFT/Alma_s_Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_004</defName>
+    <label>Final Fantasy Tactics – And I Ran Away</label>
+    <clipPath>MusicExpanded/FFT/And_I_Ran_Away</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_005</defName>
+    <label>Final Fantasy Tactics – Antidote</label>
+    <clipPath>MusicExpanded/FFT/Antidote</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_006</defName>
+    <label>Final Fantasy Tactics – Antipyretic</label>
+    <clipPath>MusicExpanded/FFT/Antipyretic</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_007</defName>
+    <label>Final Fantasy Tactics – Anxiety</label>
+    <clipPath>MusicExpanded/FFT/Anxiety</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_008</defName>
+    <label>Final Fantasy Tactics – Apoplexy (original part 1)</label>
+    <clipPath>MusicExpanded/FFT/Apoplexy_original_part_1</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_009</defName>
+    <label>Final Fantasy Tactics – Apoplexy (original part 2)</label>
+    <clipPath>MusicExpanded/FFT/Apoplexy_original_part_2</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_010</defName>
+    <label>Final Fantasy Tactics – Apoplexy (OST extended version)</label>
+    <clipPath>MusicExpanded/FFT/Apoplexy_OST_extended_version</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_011</defName>
+    <label>Final Fantasy Tactics – Attack Team</label>
+    <clipPath>MusicExpanded/FFT/Attack_Team</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_012</defName>
+    <label>Final Fantasy Tactics – Award 1 - Completed</label>
+    <clipPath>MusicExpanded/FFT/Award_1_Completed</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_013</defName>
+    <label>Final Fantasy Tactics – Award 2 - Unlucky</label>
+    <clipPath>MusicExpanded/FFT/Award_2_Unlucky</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_014</defName>
+    <label>Final Fantasy Tactics – Back Fire</label>
+    <clipPath>MusicExpanded/FFT/Back_Fire</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_015</defName>
+    <label>Final Fantasy Tactics – Backborn Story</label>
+    <clipPath>MusicExpanded/FFT/Backborn_Story</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_016</defName>
+    <label>Final Fantasy Tactics – Battle on the Bridge</label>
+    <clipPath>MusicExpanded/FFT/Battle_on_the_Bridge</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_017</defName>
+    <label>Final Fantasy Tactics – Bland Logo ~ Title Back</label>
+    <clipPath>MusicExpanded/FFT/Bland_Logo_Title_Back</clipPath>
+    <cue>MainMenu</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_018</defName>
+    <label>Final Fantasy Tactics – Bloody Excrement</label>
+    <clipPath>MusicExpanded/FFT/Bloody_Excrement</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_019</defName>
+    <label>Final Fantasy Tactics – Brain Side Gyro Mono</label>
+    <clipPath>MusicExpanded/FFT/Brain_Side_Gyro_Mono</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_020</defName>
+    <label>Final Fantasy Tactics – Brave Story</label>
+    <clipPath>MusicExpanded/FFT/Brave_Story</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_021</defName>
+    <label>Final Fantasy Tactics – Character Introductions</label>
+    <clipPath>MusicExpanded/FFT/Character_Introductions</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_022</defName>
+    <label>Final Fantasy Tactics – Character Making</label>
+    <clipPath>MusicExpanded/FFT/Character_Making</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_023</defName>
+    <label>Final Fantasy Tactics – Commander in Training</label>
+    <clipPath>MusicExpanded/FFT/Commander_in_Training</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_024</defName>
+    <label>Final Fantasy Tactics – Count's Anger</label>
+    <clipPath>MusicExpanded/FFT/Count_s_Anger</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_025</defName>
+    <label>Final Fantasy Tactics – Cry of Pain</label>
+    <clipPath>MusicExpanded/FFT/Cry_of_Pain</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_026</defName>
+    <label>Final Fantasy Tactics – Cry of Pain!</label>
+    <clipPath>MusicExpanded/FFT/Cry_of_Pain</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_027</defName>
+    <label>Final Fantasy Tactics – Cryptic Mood</label>
+    <clipPath>MusicExpanded/FFT/Cryptic_Mood</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_028</defName>
+    <label>Final Fantasy Tactics – Data Screen</label>
+    <clipPath>MusicExpanded/FFT/Data_Screen</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_029</defName>
+    <label>Final Fantasy Tactics – Decisive Battle</label>
+    <clipPath>MusicExpanded/FFT/Decisive_Battle</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_030</defName>
+    <label>Final Fantasy Tactics – Deep Dungeon</label>
+    <clipPath>MusicExpanded/FFT/Deep_Dungeon</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_031</defName>
+    <label>Final Fantasy Tactics – Delita's Theme</label>
+    <clipPath>MusicExpanded/FFT/Delita_s_Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_032</defName>
+    <label>Final Fantasy Tactics – Desert Land</label>
+    <clipPath>MusicExpanded/FFT/Desert_Land</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_033</defName>
+    <label>Final Fantasy Tactics – Dycedarg's Theme</label>
+    <clipPath>MusicExpanded/FFT/Dycedarg_s_Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_034</defName>
+    <label>Final Fantasy Tactics – Enemy Attack</label>
+    <clipPath>MusicExpanded/FFT/Enemy_Attack</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_035</defName>
+    <label>Final Fantasy Tactics – Epilogue</label>
+    <clipPath>MusicExpanded/FFT/Epilogue</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_036</defName>
+    <label>Final Fantasy Tactics – Epilogue Movie</label>
+    <clipPath>MusicExpanded/FFT/Epilogue_Movie</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_037</defName>
+    <label>Final Fantasy Tactics – Espionage</label>
+    <clipPath>MusicExpanded/FFT/Espionage</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_038</defName>
+    <label>Final Fantasy Tactics – Evil Hormone</label>
+    <clipPath>MusicExpanded/FFT/Evil_Hormone</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_039</defName>
+    <label>Final Fantasy Tactics – Fanfare</label>
+    <clipPath>MusicExpanded/FFT/Fanfare</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_040</defName>
+    <label>Final Fantasy Tactics – Fear After</label>
+    <clipPath>MusicExpanded/FFT/Fear_After</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_041</defName>
+    <label>Final Fantasy Tactics – Fighting</label>
+    <clipPath>MusicExpanded/FFT/Fighting</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_042</defName>
+    <label>Final Fantasy Tactics – Fighting - version 2</label>
+    <clipPath>MusicExpanded/FFT/Fighting_version_2</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_043</defName>
+    <label>Final Fantasy Tactics – Final Report</label>
+    <clipPath>MusicExpanded/FFT/Final_Report</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_044</defName>
+    <label>Final Fantasy Tactics – Fur, Meat, and Bones Store</label>
+    <clipPath>MusicExpanded/FFT/Fur_Meat_and_Bones_Store</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_045</defName>
+    <label>Final Fantasy Tactics – Game Over</label>
+    <clipPath>MusicExpanded/FFT/Game_Over</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_046</defName>
+    <label>Final Fantasy Tactics – General Happiness S</label>
+    <clipPath>MusicExpanded/FFT/General_Happiness_S</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_047</defName>
+    <label>Final Fantasy Tactics – General Unhappiness L</label>
+    <clipPath>MusicExpanded/FFT/General_Unhappiness_L</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_048</defName>
+    <label>Final Fantasy Tactics – General Unhappiness S</label>
+    <clipPath>MusicExpanded/FFT/General_Unhappiness_S</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_049</defName>
+    <label>Final Fantasy Tactics – Heard with Something</label>
+    <clipPath>MusicExpanded/FFT/Heard_with_Something</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_050</defName>
+    <label>Final Fantasy Tactics – Hero's Theme</label>
+    <clipPath>MusicExpanded/FFT/Hero_s_Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_051</defName>
+    <label>Final Fantasy Tactics – Holy Angel's Theme</label>
+    <clipPath>MusicExpanded/FFT/Holy_Angel_s_Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_052</defName>
+    <label>Final Fantasy Tactics – Holy Angel's Theme Deluxe</label>
+    <clipPath>MusicExpanded/FFT/Holy_Angel_s_Theme_Deluxe</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_053</defName>
+    <label>Final Fantasy Tactics – In a Limited Time</label>
+    <clipPath>MusicExpanded/FFT/In_a_Limited_Time</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_054</defName>
+    <label>Final Fantasy Tactics – In Pursuit</label>
+    <clipPath>MusicExpanded/FFT/In_Pursuit</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_055</defName>
+    <label>Final Fantasy Tactics – Inside the Forest</label>
+    <clipPath>MusicExpanded/FFT/Inside_the_Forest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_056</defName>
+    <label>Final Fantasy Tactics – Invasion</label>
+    <clipPath>MusicExpanded/FFT/Invasion</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_057</defName>
+    <label>Final Fantasy Tactics – Job Change</label>
+    <clipPath>MusicExpanded/FFT/Job_Change</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_058</defName>
+    <label>Final Fantasy Tactics – Job Level Up L</label>
+    <clipPath>MusicExpanded/FFT/Job_Level_Up_L</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_059</defName>
+    <label>Final Fantasy Tactics – Job Level Up S</label>
+    <clipPath>MusicExpanded/FFT/Job_Level_Up_S</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_060</defName>
+    <label>Final Fantasy Tactics – Kourin</label>
+    <clipPath>MusicExpanded/FFT/Kourin</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_061</defName>
+    <label>Final Fantasy Tactics – Level Up S</label>
+    <clipPath>MusicExpanded/FFT/Level_Up_S</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_062</defName>
+    <label>Final Fantasy Tactics – Little Wing</label>
+    <clipPath>MusicExpanded/FFT/Little_Wing</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_063</defName>
+    <label>Final Fantasy Tactics – Love Love Happiness</label>
+    <clipPath>MusicExpanded/FFT/Love_Love_Happiness</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_064</defName>
+    <label>Final Fantasy Tactics – Memories</label>
+    <clipPath>MusicExpanded/FFT/Memories</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_065</defName>
+    <label>Final Fantasy Tactics – Mission Complete</label>
+    <clipPath>MusicExpanded/FFT/Mission_Complete</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_066</defName>
+    <label>Final Fantasy Tactics – Music 98 (not in soundtest)</label>
+    <clipPath>MusicExpanded/FFT/Music_98_not_in_soundtest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_067</defName>
+    <label>Final Fantasy Tactics – Night Attack</label>
+    <clipPath>MusicExpanded/FFT/Night_Attack</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_068</defName>
+    <label>Final Fantasy Tactics – NOGIAS</label>
+    <clipPath>MusicExpanded/FFT/NOGIAS</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_069</defName>
+    <label>Final Fantasy Tactics – Ovelia's Theme</label>
+    <clipPath>MusicExpanded/FFT/Ovelia_s_Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_070</defName>
+    <label>Final Fantasy Tactics – Ovelia's Theme - variation</label>
+    <clipPath>MusicExpanded/FFT/Ovelia_s_Theme_variation</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_071</defName>
+    <label>Final Fantasy Tactics – Ovelia's Worries</label>
+    <clipPath>MusicExpanded/FFT/Ovelia_s_Worries</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_072</defName>
+    <label>Final Fantasy Tactics – P.R. Movie</label>
+    <clipPath>MusicExpanded/FFT/P_R_Movie</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_073</defName>
+    <label>Final Fantasy Tactics – Pray</label>
+    <clipPath>MusicExpanded/FFT/Pray</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_074</defName>
+    <label>Final Fantasy Tactics – Prologue Movie</label>
+    <clipPath>MusicExpanded/FFT/Prologue_Movie</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_075</defName>
+    <label>Final Fantasy Tactics – Pub</label>
+    <clipPath>MusicExpanded/FFT/Pub</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_076</defName>
+    <label>Final Fantasy Tactics – Random Waltz</label>
+    <clipPath>MusicExpanded/FFT/Random_Waltz</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_077</defName>
+    <label>Final Fantasy Tactics – Remnants</label>
+    <clipPath>MusicExpanded/FFT/Remnants</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_078</defName>
+    <label>Final Fantasy Tactics – Repose</label>
+    <clipPath>MusicExpanded/FFT/Repose</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_079</defName>
+    <label>Final Fantasy Tactics – Requiem</label>
+    <clipPath>MusicExpanded/FFT/Requiem</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_080</defName>
+    <label>Final Fantasy Tactics – Run Past Through the Plain</label>
+    <clipPath>MusicExpanded/FFT/Run_Past_Through_the_Plain</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_081</defName>
+    <label>Final Fantasy Tactics – Shock!! ~ Failure</label>
+    <clipPath>MusicExpanded/FFT/Shock_Failure</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_082</defName>
+    <label>Final Fantasy Tactics – Shop</label>
+    <clipPath>MusicExpanded/FFT/Shop</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_083</defName>
+    <label>Final Fantasy Tactics – Silence at Night</label>
+    <clipPath>MusicExpanded/FFT/Silence_at_Night</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_084</defName>
+    <label>Final Fantasy Tactics – Sky Travel</label>
+    <clipPath>MusicExpanded/FFT/Sky_Travel</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_085</defName>
+    <label>Final Fantasy Tactics – Staff Credit</label>
+    <clipPath>MusicExpanded/FFT/Staff_Credit</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_086</defName>
+    <label>Final Fantasy Tactics – Team Making</label>
+    <clipPath>MusicExpanded/FFT/Team_Making</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_087</defName>
+    <label>Final Fantasy Tactics – Tension 1</label>
+    <clipPath>MusicExpanded/FFT/Tension_1</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_088</defName>
+    <label>Final Fantasy Tactics – Terror 1</label>
+    <clipPath>MusicExpanded/FFT/Terror_1</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_089</defName>
+    <label>Final Fantasy Tactics – Terror 2</label>
+    <clipPath>MusicExpanded/FFT/Terror_2</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_090</defName>
+    <label>Final Fantasy Tactics – The Impure</label>
+    <clipPath>MusicExpanded/FFT/The_Impure</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_091</defName>
+    <label>Final Fantasy Tactics – Thunder God Cid</label>
+    <clipPath>MusicExpanded/FFT/Thunder_God_Cid</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_092</defName>
+    <label>Final Fantasy Tactics – To the Ball</label>
+    <clipPath>MusicExpanded/FFT/To_the_Ball</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_093</defName>
+    <label>Final Fantasy Tactics – Treasure</label>
+    <clipPath>MusicExpanded/FFT/Treasure</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_094</defName>
+    <label>Final Fantasy Tactics – Treasure Discovery S</label>
+    <clipPath>MusicExpanded/FFT/Treasure_Discovery_S</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_095</defName>
+    <label>Final Fantasy Tactics – Trisection</label>
+    <clipPath>MusicExpanded/FFT/Trisection</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_096</defName>
+    <label>Final Fantasy Tactics – Tutorial</label>
+    <clipPath>MusicExpanded/FFT/Tutorial</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_097</defName>
+    <label>Final Fantasy Tactics – Ultema, the Nice Body</label>
+    <clipPath>MusicExpanded/FFT/Ultema_the_Nice_Body</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_098</defName>
+    <label>Final Fantasy Tactics – Ultema, the Perfect Body</label>
+    <clipPath>MusicExpanded/FFT/Ultema_the_Perfect_Body</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_099</defName>
+    <label>Final Fantasy Tactics – Unavoidable Battle</label>
+    <clipPath>MusicExpanded/FFT/Unavoidable_Battle</clipPath>
+    <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_100</defName>
+    <label>Final Fantasy Tactics – Under the Stars</label>
+    <clipPath>MusicExpanded/FFT/Under_the_Stars</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_101</defName>
+    <label>Final Fantasy Tactics – Vengeance</label>
+    <clipPath>MusicExpanded/FFT/Vengeance</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_102</defName>
+    <label>Final Fantasy Tactics – Walking Theme</label>
+    <clipPath>MusicExpanded/FFT/Walking_Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_103</defName>
+    <label>Final Fantasy Tactics – Warrior's Hideout</label>
+    <clipPath>MusicExpanded/FFT/Warrior_s_Hideout</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_104</defName>
+    <label>Final Fantasy Tactics – World Map</label>
+    <clipPath>MusicExpanded/FFT/World_Map</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_105</defName>
+    <label>Final Fantasy Tactics – Yamanaka Lake of Fear</label>
+    <clipPath>MusicExpanded/FFT/Yamanaka_Lake_of_Fear</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>FFT_106</defName>
+    <label>Final Fantasy Tactics – Zalbag, the Holy Knight</label>
+    <clipPath>MusicExpanded/FFT/Zalbag_the_Holy_Knight</clipPath>
+  </MusicExpanded.TrackDef>
+</Defs>
